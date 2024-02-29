@@ -10,7 +10,7 @@ assignees: ''
 ## Descripción
 
 
-## Task:
+## Task
 - [ ] 
 
 ## Extras
