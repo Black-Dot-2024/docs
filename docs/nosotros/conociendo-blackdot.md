@@ -38,7 +38,7 @@ Aquí tienes una tabla que resume algunos de nuestros intereses y hobbies:
 | Rodrigo Terán          | Programar, ir al gym, pasear a su perro, cocinar                                | Krunker                        | Kung-Fu Panda                     |
 | Uri Gopar              | Hacer ejercicio, jugar videojuegos                                              | Cuphead                        | Saga del Señor de los Anillos     |
 | Ian Padrón             | Tocar guitarra, escuchar música, jugar videojuegos                              | Lethal Company                 | Wall-e                            |
-| David Langarica        | Arquería, investigar mucho de todo                                              | Mario Kart                     | Un lugar en silencio              |
+| David Langarica        | Arquería, investigar mucho de todo                                              | Rainbow Six Siege              | Un lugar en silencio              |
 | Daniel Hurtado         | Hacer ejercicio, practicar deportes, aprender                                   | Jedi: Survivor                 | Parásitos                         |
 | Juan Pablo Cabrera     | Hacer deportes, jugar videojuegos, ir al cine, ir al casino, estar con su novia | Mario Kart                     | Saga de Star Wars                 |
 | José Emiliano Riosmena | Escuchar música, jugar videojuegos, tocar música, moverse                       | Super Mario Galaxy             | Terminator 2                      |
@@ -48,6 +48,6 @@ Aquí tienes una tabla que resume algunos de nuestros intereses y hobbies:
 Además de nuestras aficiones principales, también queremos compartir la playlist del equipo.
 
 [Apple Music](https://music.apple.com/mx/playlist/black-dot/pl.u-6mo4l1WFlePJJR) 🍎 <br/>
-[Spotify](https://music.apple.com/mx/playlist/black-dot/pl.u-6mo4l1WFlePJJR) 🟢
+[Spotify](https://open.spotify.com/playlist/4fXSd2zkONYiNAYRoHeMju?si=Ft2FtKbJQWq74rNYmTQnyA&pi=u-mRaBeT74RCmG) 🟢
 
 Esperamos que esta pequeña ventana a nuestras vidas te haya ayudado a conocernos un poco mejor. ¡Estamos emocionados de trabajar y crear juntos!
