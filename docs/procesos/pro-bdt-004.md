@@ -1,6 +1,6 @@
 # PRO-BDT-004 Recolección y Entendimiento de requerimientos
 
-v 1.1.0 / REQM, RD
+v 5.1 / REQM, RD
 
 ## Propósito
 
@@ -8,7 +8,10 @@ El propósito del proceso es establecer, priorizar y validar los requerimientos 
 
 ## Notas introductorias
 
-No hay notas introductorias.
+Este proceso usa diversas terminologías del libro Ingeniería del Software de Ian Sommerville.
+
+- Requisitos a nivel de usuario: Requerimientos funcionales en forma de una historia en lenguaje natural, que expresa a grandes rasgos la funcionalidad deseada.
+- Requisitos a nivel de sistema: Una especificación más detallada de un requsito funcional, dónde existe una serie de pasos específicos que debe de realizar el sistema.
 
 ## Involucrados
 
@@ -20,11 +23,8 @@ Documentación de la visión del proyecto
 
 ## Salidas
 
-Impact mapping. Definición de requisitos funcionales, no funcionales, de información y de negocio validados con el cliente, priorizados por el PO y validados por el equipo.
-
-## Diagrama
-
-El diagrama del proceso es opcional
+- Impact mapping
+- Definición de requisitos funcionales, no funcionales, de información y de negocio validados con el cliente, priorizados por el PO y validados por el equipo.
 
 ## Descripción
 
@@ -46,8 +46,9 @@ El diagrama del proceso es opcional
 
 | Versión | Cambio                                                                                                                                                                                                                                                                                                                                                                                                                                            | Autor del cambio                                                          | Aprobado por                      | Fecha de cambio |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- | --------------- |
-| v 1.0 | Realización del proceso                                                                                                                                                                                                                                                                                                                                                                                                                           | Damariz Licea <br/> Alejandra Cabrera <br/> Uri Gopar <br/> Ramona Nájera |                                   | 24/02/2024      |
-| v 2.0 | Se quitaron las fases de análisis de necesidad y definición de visión para llevarlas a cabo en el proceso [PRO-BDT-005 Definir visión del proyecto](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90005-Definir-visi%C3%B3n-del-proyecto) y [PRO-BDT-003 Identificación de la necesidad del cliente](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90003-Identificaci%C3%B3n-de-la-necesidad-del-cliente) | Carlos Velasco                                                            | Alejandra Cabrera                 | 25/02/2024      |
-| v 3.0 | Se usa la denominación del autor Ian Sommerville, “requerimientos de usuario” y “requerimientos de sistema”                                                                                                                                                                                                                                                                                                                                       | Ricardo Fernández                                                         | Aprobado en Junta Departamental   | 26/02/2024      |
-| v 4.0 | Intercambio en la secuencia de fases: primero se validan los requerimientos con el cliente y después se priorizan por el PO                                                                                                                                                                                                                                                                                                                       | Ricardo Fernández                                                         | Ramona Nájera <br/> Armando Rosas | 26/02/2024      |
-| v 5.0 | La entrada cambio de una necesidad a algo tangible. Se agrego el wbs. Se renombraron las fases.                                                                                                                                                                                                                                                                                                                                                   | Alejandra Cabrera                                                         | Ricardo Fernández                 | 27/02/2024      |
+| v 1.0   | Realización del proceso                                                                                                                                                                                                                                                                                                                                                                                                                           | Damariz Licea <br/> Alejandra Cabrera <br/> Uri Gopar <br/> Ramona Nájera |                                   | 24/02/2024      |
+| v 2.0   | Se quitaron las fases de análisis de necesidad y definición de visión para llevarlas a cabo en el proceso [PRO-BDT-005 Definir visión del proyecto](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90005-Definir-visi%C3%B3n-del-proyecto) y [PRO-BDT-003 Identificación de la necesidad del cliente](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90003-Identificaci%C3%B3n-de-la-necesidad-del-cliente) | Carlos Velasco                                                            | Alejandra Cabrera                 | 25/02/2024      |
+| v 3.0   | Se usa la denominación del autor Ian Sommerville, “requerimientos de usuario” y “requerimientos de sistema”                                                                                                                                                                                                                                                                                                                                       | Ricardo Fernández                                                         | Aprobado en Junta Departamental   | 26/02/2024      |
+| v 4.0   | Intercambio en la secuencia de fases: primero se validan los requerimientos con el cliente y después se priorizan por el PO                                                                                                                                                                                                                                                                                                                       | Ricardo Fernández                                                         | Ramona Nájera <br/> Armando Rosas | 26/02/2024      |
+| v 5.0   | La entrada cambio de una necesidad a algo tangible. Se agrego el wbs. Se renombraron las fases.                                                                                                                                                                                                                                                                                                                                                   | Alejandra Cabrera                                                         | Ricardo Fernández                 | 27/02/2024      |
+| v 5.1   | Se agregaron notas introductorias explicando conceptos del libro _Ingenieria de Software_ de Ian Sommerville.                                                                                                                                                                                                                                                                                                                                     | Ricardo Fernández                                                         | Daniel Cajas                      | 05/03/2024      |
