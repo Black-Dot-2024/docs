@@ -33,7 +33,7 @@ Identificar el nivel de conflicto.
 
 <details>
 <summary>
-**Nivel 5: Guerra Mundial **
+**Nivel 5: Guerra Mundial**
 </summary>
 
 Este es el nivel más alto de conflicto. La mentalidad principal es “ganar a toda costa”, y hay violencia física, mental y/o psicológica.
