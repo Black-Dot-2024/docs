@@ -50,4 +50,4 @@ Nuevo proceso ya documentado.
 | v 1.0 | Creación del proceso                                                          | Ian Joab Padrón Daniel Hurtado Frida Bailleres Alejandra Cabrera Arturo Díaz |                 | 25/02/2024      |
 | v 2.0 | Actualización fase de _Implementación_                                        | Alejandra Cabrera                                                            | Ian Joab Padrón | 26/02/2024      |
 | v 3.0 | Agregar referencia al estándar EST‐BDT‐004 Identificadores de Documentación   | Sergio Garnica González                                                      |                 | 28/02/2024      |
-| v 4.0 | Modificar la Entrada del proceso                                              | Mike Tena                                                                    |        ?        | 05/03/2024      |
+| v 4.0 | Modificar la Entrada del proceso                                              | Mike Tena                                                                    |        Sergio Garnica González        | 05/03/2024      |
