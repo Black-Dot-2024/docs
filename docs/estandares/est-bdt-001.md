@@ -54,4 +54,4 @@ La importancia de este documento es mantener un estándar e identidad para todos
 | ------- | -------------------------------------------- | --------------------------------------------------------------- | ------------ | --------------- |
 | v 1.0 | Creación del documento                       | Sergio Garnica González                                           |              | 26/02/2024      |
 | v 2.0 | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas   |              | 26/02/2024      |
-| v 3.0 | Agregar estándares de alineación y colores   | Sergio Garnica González                                           |              | 05/08/2024      |
+| v 3.0 | Agregar estándares de alineación y colores   | Sergio Garnica González                                           | Alejandra Cabrera      | 05/08/2024      |
