@@ -1,6 +1,6 @@
 # PRO-BDT-010 Resolución de conflictos
 
-v 0.0.1 / PMC, RSKM, IPM, DAR, PP, OPD 
+v 1.0 / PMC, RSKM, IPM, DAR, PP, OPD 
 
 ## Propósito
 
