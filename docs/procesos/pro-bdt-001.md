@@ -12,7 +12,14 @@ Todos los interesados en definir nuevos procesos.
 
 ## Entradas
 
-Se identifica una nueva necesidad, resultado de inconsistencias en las prácticas de una tarea en el departamento.
+- **Necesidades del Negocio:**
+  - Documentación que especifique las necesidades o problemas actuales del negocio que requieren la definición de un nuevo proceso.
+
+- **Requerimientos de Stakeholders:**
+  - Información recopilada de todos los interesados que identifica las expectativas y requisitos para los nuevos procesos.
+
+- **Recursos Existentes:**
+  - Inventario de herramientas, tecnologías y plataformas actuales.
 
 ## Salidas
 
@@ -38,8 +45,9 @@ Nuevo proceso ya documentado.
 
 ## Control de cambios
 
-| Versión | Cambio                                                                        | Autor del cambio                                                             | Aprobado por    | Fecha de cambio |
-| ------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------- | --------------- |
+| Versión | Cambio                                                                      | Autor del cambio                                                             | Aprobado por    | Fecha de cambio |
+| ------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------- | --------------- |
 | v 1.0 | Creación del proceso                                                          | Ian Joab Padrón Daniel Hurtado Frida Bailleres Alejandra Cabrera Arturo Díaz |                 | 25/02/2024      |
 | v 2.0 | Actualización fase de _Implementación_                                        | Alejandra Cabrera                                                            | Ian Joab Padrón | 26/02/2024      |
-| v 3.0 | Agregar referencia al estándar EST‐BDT‐004 Identificadores de Documentación | Sergio Garnica González                                                      |                 | 28/02/2024      |
+| v 3.0 | Agregar referencia al estándar EST‐BDT‐004 Identificadores de Documentación   | Sergio Garnica González                                                      |                 | 28/02/2024      |
+| v 4.0 | Modificar la Entrada del proceso                                              | Mike Tena                                                                    |        Sergio Garnica González        | 05/03/2024      |
