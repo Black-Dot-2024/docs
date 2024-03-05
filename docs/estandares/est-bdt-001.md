@@ -1,6 +1,6 @@
 # EST-BDT-001 Redacción para Documentos
 
-v 1.0.1
+v 3.0
 
 ## Propósito
 
@@ -18,6 +18,9 @@ La importancia de este documento es mantener un estándar e identidad para todos
 2. La tipografía para subtítulos es Nunito número 12 en negritas.
 3. La tipografía para el cuerpo del documento es Open Sans número 10.
 4. El interlineado es de 1.15.
+5. El alineado del texto del cuerpo es justificado.
+6. El alineado de los títulos es a la izquierda.
+7. El color por default del texto es negro, aunque se puede mofificar si así se requiere. 
 
 ### Redacción
 
@@ -49,5 +52,6 @@ La importancia de este documento es mantener un estándar e identidad para todos
 
 | Versión | Cambio                                       | Autor del cambio                                                | Aprobado por | Fecha de cambio |
 | ------- | -------------------------------------------- | --------------------------------------------------------------- | ------------ | --------------- |
-| v 1.0 | Creación del documento                       | Sergio Garnica González                                         |              | 26/02/2024      |
-| v 1.0 | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas |              | 26/02/2024      |
+| v 1.0 | Creación del documento                       | Sergio Garnica González                                           |              | 26/02/2024      |
+| v 2.0 | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas   |              | 26/02/2024      |
+| v 3.0 | Agregar estándares de alineación y colores   | Sergio Garnica González                                           |              | 05/08/2024      |
