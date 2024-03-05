@@ -98,14 +98,13 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
 
-      // TODO: Add Algolia search with new link
-      // algolia: {
-      //   indexName: 'black-dot-2024io',
-      //   appId: '6KWYVW3922',
-      //   apiKey: '18b88590262a89cbb43440cd25c23c32',
-      //   debug: false,
-      //   contextualSearch: false,
-      // },
+      algolia: {
+        appId: 'J3VT4PF3G3',
+        apiKey: '43428962f48077e77c039cab8fa50b2f',
+        indexName: 'black-dot-2024io',
+        debug: false,
+        contextualSearch: false,
+      },
     }),
 };
 
