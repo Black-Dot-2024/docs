@@ -89,7 +89,7 @@ Algunas recomendaciones son:
 <li> Establecer la situación de manera objetiva</li>
 </ul>
 
-</summary>
+</details>
 
 <details>
 <summary>
