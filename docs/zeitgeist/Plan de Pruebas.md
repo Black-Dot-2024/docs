@@ -18,11 +18,11 @@ Fecha: 04/03/2024
 
     1.2 Alcance
 
-        1.2.1 Consideraciones
+        &nbsp; 1.2.1 Consideraciones
 
-        1.2.2 Asumpciones
+        &nbsp; 1.2.2 Asumpciones
 
-        1.2.3 Riesgos a considerar para el desarrollo de las pruebas
+        &nbsp; 1.2.3 Riesgos a considerar para el desarrollo de las pruebas
 
     1.3 Dependencias
 
@@ -34,7 +34,7 @@ Fecha: 04/03/2024
 
     4.1 Tipos de Pruebas
 
-        4.1.1 Pruebas Unitarias
+        &nbsp; 4.1.1 Pruebas Unitarias
 
             * Descripción
 
@@ -46,7 +46,7 @@ Fecha: 04/03/2024
                 - Entrada
                 - Salida
 
-        4.1.2 Pruebas Integración
+        &nbsp; 4.1.2 Pruebas Integración
 
             * Descripción
 
@@ -58,13 +58,13 @@ Fecha: 04/03/2024
                 - Entrada
                 - Salida
 
-        4.1.3 Pruebas de Sistema
+        &nbsp; 4.1.3 Pruebas de Sistema
 
             * Descripción
 
             * Entrada
 
-            * Salidaasd
+            * Salida
 
     4.2 Herramientas
 
@@ -157,10 +157,10 @@ Resultado de las pruebas documentado.
 Para realizar una prueba unitaria en el frontend del proyecto, es necesario elaborar una matriz de pruebas con escenarios donde el tester considere que podría llegar a fallar.
 
 ###### Entrada 
-![Entrada-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.jpeg)
+![Entrada-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
 
 ###### Salida
-![Salida-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_front_unitaria_front_integracion_ZG.jpeg)
+![Salida-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_front_unitaria_front_integracion_ZG.png)
 
 #### 4.1.2. Pruebas Integración
 
@@ -171,19 +171,19 @@ Una prueba de integración ayuda a verificar que todos los componentes integrado
 Las pruebas de integración del backend se realizan por cada requisito de sistema. El tester debe realizar escenarios prueba en donde verifique que solo usuarios autenticados y con privilegios específicos puedan acceder a sus funcionalidades correspondientes.
 
 ###### Entrada 
-![Entrada-backend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.jpeg)
+![Entrada-backend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
 
 ###### Salida
-![Salida-backend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_back_integracion_ZG.jpeg)
+![Salida-backend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_back_integracion_ZG.png)
 
 ##### Frontend
 Las pruebas de integración de frontend se hacen por cada vista del sistema. El tester debe realizar escenarios para que los usuarios que tengan roles específicos puedan acceder a ciertas funcionalidades y en caso de que no, sean redirigidos correctamente.
 
 ###### Entrada 
-![Entrada-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.jpeg)
+![Entrada-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
 
 ###### Salida
-![Salida-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_front_unitaria_front_integracion_ZG.jpeg)
+![Salida-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_front_unitaria_front_integracion_ZG.png)
 
 #### 4.1.3 Pruebas de Sistema 
 
