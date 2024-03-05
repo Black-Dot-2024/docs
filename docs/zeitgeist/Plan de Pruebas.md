@@ -157,10 +157,10 @@ Resultado de las pruebas documentado.
 Para realizar una prueba unitaria en el frontend del proyecto, es necesario elaborar una matriz de pruebas con escenarios donde el tester considere que podría llegar a fallar.
 
 ###### Entrada 
-![Entrada-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
+![Entrada-frontend](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
 
 ###### Salida
-![Salida-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_front_unitaria_front_integracion_ZG.png)
+![Salida-frontend](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Salida_front_unitaria_front_integracion_ZG.png)
 
 #### 4.1.2. Pruebas Integración
 
@@ -171,19 +171,19 @@ Una prueba de integración ayuda a verificar que todos los componentes integrado
 Las pruebas de integración del backend se realizan por cada requisito de sistema. El tester debe realizar escenarios prueba en donde verifique que solo usuarios autenticados y con privilegios específicos puedan acceder a sus funcionalidades correspondientes.
 
 ###### Entrada 
-![Entrada-backend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
+![Entrada-backend](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
 
 ###### Salida
-![Salida-backend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_back_integracion_ZG.png)
+![Salida-backend](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Salida_back_integracion_ZG.png)
 
 ##### Frontend
 Las pruebas de integración de frontend se hacen por cada vista del sistema. El tester debe realizar escenarios para que los usuarios que tengan roles específicos puedan acceder a ciertas funcionalidades y en caso de que no, sean redirigidos correctamente.
 
 ###### Entrada 
-![Entrada-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
+![Entrada-frontend](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Entrada_Plan_de_pruebas_ZG.png)
 
 ###### Salida
-![Salida-frontend](https://github.com/Black-Dot-2024/docs/blob/main/static/img/Salida_front_unitaria_front_integracion_ZG.png)
+![Salida-frontend](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Salida_front_unitaria_front_integracion_ZG.png)
 
 #### 4.1.3 Pruebas de Sistema 
 
