@@ -16,7 +16,8 @@ Comité de Ética, Team Member, Team Lead, Project Manager, Profesores.
 
 ## Entradas
 
-Políticas, que se haga una denuncia con el comité designado.
+- Políticas, que se haga una denuncia con el comité designado.
+- Denuncia con el comité de ética
 
 ## Salidas
 
