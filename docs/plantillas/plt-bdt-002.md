@@ -1,6 +1,6 @@
 # PLT-BDT-002 Plantilla de Políticas
 
-v 0.0.0 / áreas del CMMI
+v 0.0 / áreas del CMMI
 
 ## Propósito
 

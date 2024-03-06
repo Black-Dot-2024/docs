@@ -1,6 +1,6 @@
 # PRO-BDT-007 Monitoreo del Plan de Riesgo
 
-v 1.0.0 / PMC, PP, RSKM
+v 1.0 / PMC, PP, RSKM
 
 ## Propósito
 

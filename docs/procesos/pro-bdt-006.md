@@ -1,6 +1,6 @@
 # PRO-BDT-006 Gestión de solicitud de cambio de requerimientos
 
-v 1.0.0 / REQM, RD
+v 1.0 / REQM, RD
 
 ## Propósito
 

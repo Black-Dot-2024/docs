@@ -38,7 +38,7 @@ La importancia de este documento es mantener un estándar e identidad para todos
 ### Versiones
 
 1. Las versiones se escriben conforme al estándar _[Semantic Versioning 2.0.0](https://semver.org/)_.
-2. Las versiones se escribirán con una _v_ antes del número de la versión.
+2. Las versiones se escribirán con una _v_ y un espacio antes del número de la versión.
 
 ### Diagramas
 

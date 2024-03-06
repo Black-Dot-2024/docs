@@ -1,6 +1,6 @@
 # PRO-BDT-008 Planeación y ejecución de minutas
 
-v 1.0.0 / OT
+v 1.1 / OT
 
 ## Propósito
 
@@ -32,4 +32,4 @@ Minuta de la junta.
 | Versión | Cambio               | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | -------------------- | ---------------- | ------------ | --------------- |
 | v 1.0 | Creacion del proceso | Diego Sandoval   | Yuna Chung   | 28/02/2024      |
-| v 1.0.1 | Correción ortográfica | Diego Sandoval | | 05/03/2024|
+| v 1.1 | Correción ortográfica | Diego Sandoval | | 05/03/2024|

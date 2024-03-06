@@ -1,6 +1,6 @@
 # PRO-BDT-003 Identificación de la Necesidad del Cliente
 
-v 1.0.1 / PP, PMC, RD, CM, VAL
+v 2.0 / PP, PMC, RD, CM, VAL
 
 ## Propósito
 
