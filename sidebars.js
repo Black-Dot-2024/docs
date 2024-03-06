@@ -27,7 +27,6 @@ const sidebars = {
                'nosotros/compromisos',
                'nosotros/equipo',
                'nosotros/mision-vision-valores',
-               'nosotros/vision-proyecto-cr'
             ],        
     },
     {
@@ -130,6 +129,13 @@ const sidebars = {
       items: [ 'zeitgeist/Plan de Pruebas',
         'zeitgeist/imapactMappingZG',
         'zeitgeist/vision-proyecto-ZG',
+      ]
+    },
+    {
+      type: 'category',
+      label: 'CR Organizacional',
+      items: [ 'cr/cr-testplan',
+        'cr/vision-proyecto-cr',
       ]
     },
     'FAQs',
