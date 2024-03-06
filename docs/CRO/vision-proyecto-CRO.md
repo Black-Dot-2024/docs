@@ -16,25 +16,18 @@ Reducir en un 30% el tiempo invertido en la generación de reportes por parte de
 
 El módulo se conectará a una API con un modelo preentrenado de IA para realizar recomendaciones de planes de trabajo automáticos. Se deberá proveer de una conexión estable al modelo a más tardar el 19 de abril del 2024 o se omitirá esta funcionalidad.
 
-## Hitos del Proyecto
 
-### Hitos
+## Hitos y Fechas Esperadas
 
-- ¿El stakeholder está de acuerdo con tu estrategia?
-- ¿Realmente puedes construir la solución propuesta?
-- ¿El proyecto sigue teniendo sentido?
-- ¿Tiene sentido liberar la solución actual?
-- ¿La solución va a funcionar en producción?
-- ¿Están contentos los stakeholders con la solución desplegada?
+| Hitos                                                      | Fecha Esperada          |
+|------------------------------------------------------------|-------------------------|
+| ¿El stakeholder está de acuerdo con tu estrategia?         | 11/03/2024 - 15/03/2024 |
+| ¿Realmente puedes construir la solución propuesta?         | 08/04/2024 - 12/04/2024 |
+| ¿El proyecto sigue teniendo sentido?                       | 22/04/2024 - 26/04/2024 |
+| ¿Tiene sentido liberar la solución actual?                 | 29/04/2024 - 03/05/2024 |
+| ¿La solución va a funcionar en producción?                 | 05/05/2024 - 10/05/2024 |
+| ¿Están contentos los stakeholders con la solución desplegada? | 03/06/2024 - 15/06/2024 |
 
-### Fecha Esperada
-
-- 11/03/2024 - 15/03/2024
-- 08/04/2024 - 12/04/2024
-- 22/04/2024 - 26/04/2024
-- 29/04/2024 - 03/05/2024
-- 05/05/2024 - 10/05/2024
-- 03/06/2024 - 15/06/2024
 
 ## Plan del Proyecto
 
@@ -54,4 +47,7 @@ Matriz de riesgos | Black Dot
 | Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
 |---------|--------|------------------|--------------|-----------------|
 | v 1.0   | Traslado del documento de wiki | Mike Tena | ? | 06/03/2024 |
+| v 2.0   | Uso de tabla para los hitos    | Mike Tena | ? | 06/03/2024 |
+
+
 
