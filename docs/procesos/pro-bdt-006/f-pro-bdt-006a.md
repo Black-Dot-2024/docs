@@ -1,4 +1,4 @@
-# F-PRO‐BDT‐006 Solicitud de cambio de requerimientos
+# F-PRO‐BDT‐006A Solicitud de cambio de requerimientos
 
 ## Solicitante
 Ejm, Cliente
