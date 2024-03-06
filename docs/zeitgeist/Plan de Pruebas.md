@@ -83,18 +83,22 @@ El presente plan de pruebas pretende establecer las bases sobre el proceso de pr
   - Restricciones del entorno de prueba
 
 ### 1.2 Alcance
-| Etapa de prueba| Caso de uso | Back / Front | Tipo de Prueba | ¿Qué se evalúa? |
-| :------------: | :---------: | :----------: | :------------: | :-------------: |
-| Unitaria | Desarrollo de un requisito | Back | Automatizada (Mocha & Chai) | Estructura, tipos de dato |
-||                                      | Front | Manual | Funcionalidad, diseño |
-|Integración | Requisitos con restricciones previas | Back | Manual | Reglas de negocio |
-|| Cuando todos los elementos de una vista estén completos | Front | Manual | Usabilidad y reglas de negocio |
-| Sistema | Dos días antes de entregar una versión | Back y Front | Pruebas en voz alta | Funcionalidad del sistema completo |
+| Etapa de prueba| Caso de uso | Back / Front | Tipo de Prueba | Herramienta | ¿Qué se evalúa? |
+| :------------: | :---------: | :----------: | :------------: | :---------: | :-------------: |
+| Unitaria | Desarrollo de un requisito | Back | Automatizada | Moka & Chai | Estructura, tipos de dato |
+||                                      | Front | Manual | Matriz de Pruebas | Funcionalidad, diseño |
+|Integración | Requisitos con restricciones previas | Back | Manual | Postman y Matriz de Pruebas | Reglas de negocio |
+|| Cuando todos los elementos de una vista estén completos | Front | Manual | Matriz de Pruebas | Usabilidad y reglas de negocio |
+| Sistema | Dos días antes de entregar una versión | Back y Front | Pruebas en voz alta | Documento para pruebas en voz alta | Funcionalidad del sistema completo |
+
 
 **Consideraciones**
 
+* Entiéndase por “desarrollador” como un miembro del equipo que analiza, diseña e implementa un componente del sistema. Cualquier miembro del departamento puede ser un desarrollador.
+* Entiéndase por “tester” como un miembro del equipo que se encargará de realizar las pruebas a un componente desarrollado. Cualquier persona del departamento puede ser un tester de cualquier componente, salvo el miembro o miembros que desarrollaron dicho componente.
 * Ninguna prueba de backend evalúa diseño o usabilidad.
 * NInguna prueba de frontend evalúa estructura, tipo de dato o la coherencia de los datos
+
 
 **Asunciones**
 
@@ -110,14 +114,21 @@ El presente plan de pruebas pretende establecer las bases sobre el proceso de pr
 * **Requerimientos:** Requisitos malentendidos por el equipo de desarrollo
 * **Dependencia:** Uso de versión inestable del framework
 
+_**Nota:** Para más información acerca de los planes de mitigación y contingencia sobre los riesgos listados previamente, revisar la [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1qlkNWrnsY4GdnN6vlMMmOpeQMdMY4EydTHZ9DmPvUGE/edit#gid=1358524966)_
+
 ### 1.3 Dependencias 
-Pruebas Unitarias: Haber terminado al 100% el desarrollo de un requerimiento de sistema.
-Prueba de Integración: Haber terminado el desarrollo y pruebas unitarias de una historia de usuario.
-Prueba de Sistema: Completar las tareas asociadas a la versión trabajada (MVP o MBI).
+* Pruebas Unitarias: Haber terminado al 100% el desarrollo de un requerimiento de sistema.
+* Prueba de Integración: Haber terminado el desarrollo y pruebas unitarias de una historia de usuario.
+* Prueba de Sistema: Completar las tareas asociadas a la versión trabajada (MVP o MBI).
 
 ## 2. Requerimientos para Pruebas 
 La lista que se presenta a continuación identifica los elementos (casos de uso,  requerimientos funcionales y no funcionales) que han sido identificados como objetivo de prueba. Esta lista representa lo que será probado.  
-[Presentar una lista de alto nivel de los requerimientos de estas pruebas]
+* Estructura, tipos de dato
+* Funcionalidad, diseño
+* Reglas de negocio
+* Usabilidad
+* Funcionalidad del sistema completo
+
 
 ## 3. Milestones
 | Etapa                             | Descripción                  | Fecha      |
@@ -191,7 +202,7 @@ Las pruebas de integración de frontend se hacen por cada vista del sistema. El 
 Una prueba de sistema valida que la integración de múltiples módulos y componentes individuales del sistema funcione correctamente de manera conjunta. El tester define las pruebas desde la perspectiva del usuario, interactuando con la aplicación mediante la GUI y analizando la salida de dichas interacciones. Esta prueba busca verificar que se cumplan con los requerimientos y las reglas de negocios establecidas. Se harán pruebas en voz alta con el usuario final.
 
 ###### Entrada 
-Documento con actividades para el usuario final .
+Documento con actividades para el usuario final.
 
 ###### Salida
 Documento con la retroalimentación del usuario.
@@ -199,11 +210,19 @@ Documento con la retroalimentación del usuario.
 ### 4.2 Herramientas 
 Las siguientes herramientas serán utilizadas para este proyecto:
 
-| **Tipo de prueba**   | **Herramienta**                    |
-| :------------------: | :--------------------------------: |
-| Unitarias Backend    | Moka & Chai                        |
-| Unitarias Frontend   | Matriz de Pruebas                  |
-| Integración Backend  | Postman y Matriz de Pruebas        |
-| Integración FrontEnd | Matriz de Pruebas                  |
-| Sistema              | Documento para pruebas en voz alta |
+**Backend** 
+* Node JS
+* Express
+* TypeScript
+* Prisma
+* SQL derivative DB
+  
+**Frontend**
+* React con un framework de diseño
+* TypeScript
+* MUI
+  
+**Documentación de Pruebas (Tentativo)**
+* RTM de Zeitgeist en Google Sheets
+
 
