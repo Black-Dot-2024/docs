@@ -87,7 +87,7 @@ El presente plan de pruebas pretende establecer las bases sobre el proceso de pr
 | :------------: | :---------: | :----------: | :------------: | :---------: | :-------------: |
 | Unitaria | Desarrollo de un requisito | Back | Automatizada | Mocha & Chai | Estructura, tipos de dato |
 ||                                      | Front | Manual | Matriz de Pruebas | Funcionalidad, diseño |
-    |Integración | Requisitos con restricciones previas | Back | Manual | Herramienta para probar API's (e.g. Postman) y Matriz de Pruebas | Reglas de negocio |
+|Integración | Requisitos con restricciones previas | Back | Manual | Herramienta para probar API's (e.g. Postman) y Matriz de Pruebas | Reglas de negocio |
 || Cuando todos los elementos de una vista estén completos | Front | Manual | Matriz de Pruebas | Usabilidad y reglas de negocio |
 | Sistema | Dos días antes de entregar una versión | Back y Front | Pruebas en voz alta | Documento para pruebas en voz alta | Funcionalidad del sistema completo |
 
