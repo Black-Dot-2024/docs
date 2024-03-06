@@ -50,7 +50,8 @@ const sidebars = {
                 {
                   type: 'category',
                   label: 'Procesos',
-                  items: [ 'procesos/pro-bdt-001',
+                  items: ['procesos/Mapa de Procesos',
+                          'procesos/pro-bdt-001',
                           'procesos/pro-bdt-002',
                           'procesos/pro-bdt-003',
                           'procesos/pro-bdt-004',
