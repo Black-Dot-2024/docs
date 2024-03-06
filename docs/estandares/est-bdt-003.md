@@ -1,4 +1,5 @@
 # EST-BDT-003 Estandar de versionamiento
+v 1.1
 
 ## Propósito
 
@@ -12,11 +13,13 @@ Este estándar busca reemplazar los métodos de versionamiento complejos o detal
 
 ### Estilos de Versionamiento
 
-1. **Vesiones principales:** Se utilizará un sistema de numeración secuencial simple para identificar cada nueva versión mayor de un archivo. Estas versiones representan cambios significativos, revisiones completas, o el lanzamiento de nuevas funcionalidades importantes.
+1. **Vesiones principales:** Se utilizará un sistema de numeración secuencial simple para identificar cada nueva versión mayor de un archivo. Estas versiones representan cambios significativos, revisiones completas, o el lanzamiento de nuevas funcionalidades importantes. <br/> <br/> Ejemplo: `v 1`, `v 2`, `v 3`, etc.
 
-Ejemplo: `v 1`, `v 2`, `v 3`, etc.
+2. **Errores ortográficos** Se utilizará un sistema de numeración secuencial decimal para identificar correcciones a errores ortográficos o de redacción que se encuentren en algún documento. <br/> <br/> Ejemplo: `v 1.1`, `v 2.1`, `v 3.1`, etc.
 
-1. **Notas de versión:** Junto con cada versión, se debe proporcionar una breve descripción de los cambios realizados. Esto ayudará a los miembros del equipo a entender el alcance de las modificaciones y la razón detrás de la nueva versión.
+<br/>
+
+**Notas de versión:** Junto con cada versión, se debe proporcionar una breve descripción de los cambios realizados. Esto ayudará a los miembros del equipo a entender el alcance de las modificaciones y la razón detrás de la nueva versión.
 
 ### Documentación y Registro
 
@@ -27,5 +30,6 @@ Ejemplo: `v 1`, `v 2`, `v 3`, etc.
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0 | Creación del documento | Daniel Hurtado    |  Frida Bailleres           | 01/03/2024      |
-| v 1.1 | Correción ortográfica | Olimpia García    |  Diego Llaca           | 04/03/2024      |
+| v 1.0 | Creación del documento   | Daniel Hurtado   | Frida Bailleres       | 01/03/2024      |
+| v 1.1 | Correción ortográfica    | Olimpia García   | Diego Llaca           | 04/03/2024      |
+| v 2.0 | Agregar sección de errores ortográficos | Sergio Garnica González   |             | 05/03/2024      |

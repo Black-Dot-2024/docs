@@ -1,6 +1,6 @@
 # PLT-BDT-001 Plantilla de Procesos
 
-v 0.0.0 / áreas del CMMI
+v 0.0 / áreas del CMMI
 
 ## Propósito
 

@@ -1,6 +1,6 @@
 # PRO-BDT-002 Forma de Trabajo
 
-v 1.0.2 / PP, OPD, OPF
+v 3.0 / PP, OPD, OPF
 
 ## Propósito
 

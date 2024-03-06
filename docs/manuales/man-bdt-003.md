@@ -1,5 +1,5 @@
 # MAN-BDT-003 Diseño de requisitos del sistema
-v 1.0.0
+v 1.0
 
 ## Propósito
 

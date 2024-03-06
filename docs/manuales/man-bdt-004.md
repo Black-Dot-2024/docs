@@ -1,6 +1,6 @@
 # MAN-BDT-004 Consideraciones para Diseñar un Requerimiento
 
-v 1.0.0
+v 1.0
 
 ## Propósito
 
