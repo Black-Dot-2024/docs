@@ -29,9 +29,9 @@ El módulo se conectará a una API con un modelo preentrenado de IA para realiza
 | ¿Están contentos los stakeholders con la solución desplegada? | 03/06/2024 - 15/06/2024 |
 
 
-## Plan del Proyecto
+### Plan del Proyecto
 
-### Project Planning
+[Project Planning](https://docs.google.com/document/d/1EkusQ-5p9i81Shs9Cs712EN2MYP7Ww5e0L0arISF2OM/edit)
 
 #### Arquitectura
 
@@ -41,13 +41,14 @@ Otras propuestas: Utilizar la arquitectura de React (biblioteca de Javascript) j
 
 ### Plan de Riesgos
 
-Matriz de riesgos | Black Dot
+[Matriz de riesgos](https://docs.google.com/spreadsheets/d/1qlkNWrnsY4GdnN6vlMMmOpeQMdMY4EydTHZ9DmPvUGE/edit#gid=1756945596) | Black Dot
 
 ## Control de cambios
 | Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
 |---------|--------|------------------|--------------|-----------------|
 | v 1.0   | Traslado del documento de wiki | Mike Tena | ? | 06/03/2024 |
 | v 2.0   | Uso de tabla para los hitos    | Mike Tena | ? | 06/03/2024 |
+| v 3.0   | Cambio en los links a los archivos   | Mike Tena | ? | 06/03/2024 |
 
 
 
