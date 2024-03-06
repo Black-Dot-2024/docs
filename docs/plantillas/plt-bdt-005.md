@@ -1,6 +1,6 @@
-# PLT-BDT-004 Plantilla de Guías
+# PLT-BDT-005 Plantilla de Guías
 
-v 0.0.0 / áreas del CMMI
+v 0.0 / áreas del CMMI
 
 ## Propósito
 

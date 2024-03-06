@@ -12,7 +12,7 @@ Product Owner, Architecture Owner, Cliente
 
 ## Entradas
 
-Se hace una solicitud escrita para cambios, creación o deprecación de requerimientos. [Plantilla](https://github.com/Black-Dot-2024/docs/wiki/PL%E2%80%90BDT%E2%80%90005-Plantilla-de-solicitud-de-cambio-de-requerimientos)
+Se hace una solicitud escrita para cambios, creación o deprecación de requerimientos utilizando el formato [F-PRO-006A] Solicitud de cambio de requerimientos()
 
 ## Salidas
 
@@ -34,4 +34,5 @@ Requerimiento modificado, definido o deprecado, según corresponda.
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0 | Descripción del cambio | Daniel Cajas     | Uri Gopar    | 28/02/2024      |
+| v 1.0 | Creación del proceso | Daniel Cajas     | Uri Gopar    | 28/02/2024      |
+| v 2.0 | Actualización de formato, adición de F-PRO-006A | Arturo Díaz     | Daniel Cajas    | 05/03/2024      |
