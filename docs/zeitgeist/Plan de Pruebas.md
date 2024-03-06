@@ -85,9 +85,9 @@ El presente plan de pruebas pretende establecer las bases sobre el proceso de pr
 ### 1.2 Alcance
 | Etapa de prueba| Caso de uso | Back / Front | Tipo de Prueba | Herramienta | ¿Qué se evalúa? |
 | :------------: | :---------: | :----------: | :------------: | :---------: | :-------------: |
-| Unitaria | Desarrollo de un requisito | Back | Automatizada | Moka & Chai | Estructura, tipos de dato |
+| Unitaria | Desarrollo de un requisito | Back | Automatizada | Mocha & Chai | Estructura, tipos de dato |
 ||                                      | Front | Manual | Matriz de Pruebas | Funcionalidad, diseño |
-|Integración | Requisitos con restricciones previas | Back | Manual | Postman y Matriz de Pruebas | Reglas de negocio |
+    |Integración | Requisitos con restricciones previas | Back | Manual | Herramienta para probar API's (e.g. Postman) y Matriz de Pruebas | Reglas de negocio |
 || Cuando todos los elementos de una vista estén completos | Front | Manual | Matriz de Pruebas | Usabilidad y reglas de negocio |
 | Sistema | Dos días antes de entregar una versión | Back y Front | Pruebas en voz alta | Documento para pruebas en voz alta | Funcionalidad del sistema completo |
 
@@ -156,10 +156,10 @@ La lista que se presenta a continuación identifica los elementos (casos de uso,
 Una prueba unitaria comprueba el funcionamiento correcto de un requisito de sistema. El tester que realizará las pruebas, deberá llenar el checklist de pruebas unitarias verificando que el código cumpla con el  criterio. El tester debe asegurar que todas las pruebas pasaron exitosamente. De lo contrario, deberá avisar al desarrollador para corregir los errores.
 
 ##### Backend
-Para realizar pruebas unitarias en el backend del proyecto, se utilizará la librería Moka & Chai para realizar pruebas automatizadas. Documentar el resultado de las pruebas.
+Para realizar pruebas unitarias en el backend del proyecto, se utilizará la librería Mocha & Chai para realizar pruebas automatizadas. Documentar el resultado de las pruebas.
 
 ###### Entrada 
-Casos prueba definidos en el código del proyecto utilizando la librería Moka & Chai.
+Casos prueba definidos en el código del proyecto utilizando la librería Mocha & Chai.
 
 ###### Salida
 Resultado de las pruebas documentado.
@@ -216,6 +216,7 @@ Las siguientes herramientas serán utilizadas para este proyecto:
 * TypeScript
 * Prisma
 * SQL derivative DB
+* Mocha & Chai
   
 **Frontend**
 * React con un framework de diseño
