@@ -27,7 +27,6 @@ const sidebars = {
                'nosotros/compromisos',
                'nosotros/equipo',
                'nosotros/mision-vision-valores',
-               'nosotros/vision-proyecto-ZG',
                'nosotros/vision-proyecto-cr'
             ],        
     },
@@ -128,8 +127,9 @@ const sidebars = {
       type: 'category',
       label: 'Zeitgeist',
       items: [ 'zeitgeist/Plan de Pruebas',
-               'zeitgeist/imapactMappingZG',
-             ]
+        'zeitgeist/imapactMappingZG',
+        'zeitgeist/vision-proyecto-ZG',
+      ]
     },
     'FAQs',
   ],
