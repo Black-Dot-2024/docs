@@ -97,6 +97,7 @@ const sidebars = {
                           'plantillas/plt-bdt-002',
                           'plantillas/plt-bdt-003',
                           'plantillas/plt-bdt-004',
+                          'plantillas/plt-bdt-005',
                   ]
                 },
              ]
