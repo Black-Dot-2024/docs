@@ -1,6 +1,6 @@
 # PRO‐BDT‐005 Definir visión del proyecto
 
-v 3.0.0 / RM, RD, PP, PMC, VAL, OPD
+v 4.0 / RM, RD, PP, PMC, VAL, OPD
 
 ## Propósito
 

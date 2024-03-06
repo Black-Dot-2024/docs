@@ -1,6 +1,6 @@
 # MAN-BDT-001 ¿Realmente necesito un proceso?
 
-v 1.0.0
+v 1.0
 
 ## Propósito
 

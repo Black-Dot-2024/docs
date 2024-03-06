@@ -1,6 +1,6 @@
 # MAN-BDT-002 Creación de Presentación para Cliente
 
-v 1.0.1
+v 2.0
 
 ## Propósito
 

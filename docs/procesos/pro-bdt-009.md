@@ -1,6 +1,6 @@
 # PL-BDT-009 Desarrollo de Requisitos del Sistema
 
-v 1.0.0 / RD, TS, VER
+v 1.0 / RD, TS, VER
 
 ## Propósito
 
