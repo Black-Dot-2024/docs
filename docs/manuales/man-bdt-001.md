@@ -5,6 +5,7 @@ v 2.0
 ## Propósito
 
 El propósito de este manual es proporcionar orientación a los miembros del departamento Black Dot en la creación de presentaciones dirigidas a los clientes del departamento.
+
 ## Notas introductorias
 
 Este manual presenta los diferentes pasos y recursos para ensamblar una presentación adecuada para ser presentada a los clientes del departamento.
@@ -51,11 +52,11 @@ PENDIENTE (Opcional)
     - Es recomendable plantear posibles preguntas que se puedan realizar sobre la presentación y preparar respuestas para estas con el proposito de evitar que los oradores sean tomados por sorpresa.
 12. Practica de la presentación
     - No importa la confianza que se tenga por parte de los oradores, es de vital importancia que se practique la presentación y el contenido a tratar en esta, esto con el proposito de tener una excelente comunicación discursiva y por consecuencia transmitir efectivamente el contenido a tratar durante la presentación.
-   
+
 ## Control de cambios
 
-| Versión | Cambio                                                       | Autor del cambio             | Aprobado por      | Fecha de cambio |
-| ------- | ------------------------------------------------------------ | ---------------------------- | ----------------- | --------------- |
-| v 1.0   | Creación del Manual                                          | José Diego Llaca Castro      |                   | 02/03/2024      |
-| v 1.1   | Corrección de identación                                     | José Diego Llaca Castro      |                   | 02/03/2024      |
-| v 2.0   | Adición de preguntas posibles y entradas y salidas tangibles | José Diego Llaca Castro      | Alejandra Cabrera | 04/03/2024      |
+| Versión | Cambio                                                       | Autor del cambio        | Aprobado por      | Fecha de cambio |
+| ------- | ------------------------------------------------------------ | ----------------------- | ----------------- | --------------- |
+| v 1.0   | Creación del Manual                                          | José Diego Llaca Castro |                   | 02/03/2024      |
+| v 1.1   | Corrección de identación                                     | José Diego Llaca Castro |                   | 02/03/2024      |
+| v 2.0   | Adición de preguntas posibles y entradas y salidas tangibles | José Diego Llaca Castro | Alejandra Cabrera | 04/03/2024      |
