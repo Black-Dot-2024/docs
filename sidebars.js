@@ -106,7 +106,9 @@ const sidebars = {
                 {
                   type: 'category',
                   label: 'Guías',
-                  items: [ 'guias/gui-bdt-001', ]
+                  items: [ 'guias/gui-bdt-001',
+                           'guias/gui‐bdt‐002', 
+                         ] 
                 },
              ]
     },
