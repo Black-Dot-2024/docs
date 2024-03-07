@@ -1,48 +1,61 @@
-# MAN-BDT-001 ¿Realmente necesito un proceso?
+# MAN-BDT-001 Creación de Presentación para Cliente
 
-v 1.0
+v 2.0
 
 ## Propósito
 
-El propósito de este manual es proporcionar orientación a los miembros del departamento Black Dot en la evaluación de la conveniencia de desarrollar manuales, políticas o procesos, con el fin de optimizar la eficiencia y la coherencia en las operaciones organizativas.
-
+El propósito de este manual es proporcionar orientación a los miembros del departamento Black Dot en la creación de presentaciones dirigidas a los clientes del departamento.
 ## Notas introductorias
 
-Este manual presenta los diferenciadores entre un manual, una política y un proceso.
+Este manual presenta los diferentes pasos y recursos para ensamblar una presentación adecuada para ser presentada a los clientes del departamento.
 
 ## Involucrados
 
-Todos los integrantes del departamento.
+Todo integrante que participe en la creación de una presentación para el cliente.
 
 ## Entradas
 
-Necesidad de la creación de un manual, política o proceso.
+Información documentada relevante de los estados del proyecto.
 
 ## Salidas
 
-Elaboración correcta de un manual, política o proceso.
+Presentación elaborada correctamente para mostrar al cliente.
 
 ## Diagrama
 
-El diagrama del proceso es opcional
+PENDIENTE (Opcional)
 
 ## Procedimiento
 
-1. Entender la definición de proceso.
-   - Un proceso es una secuencia de pasos para lograr un objetivo. El script de proceso es la descripción a nivel de experto de esta secuencia de pasos.
-2. Considerar otro tipo de documentación departamental
-   - Además de los procesos existen las políticas, las guías y los estándares. Es importante sólo definir un proceso cuando es necesario.
-3. ¿Necesito una guía?
-   - Cuando busco que un principiante ejecute el proceso siguiendo un conjunto de instrucciones detalladas paso a paso para llevar a cabo la tarea. Es una herramienta de referencia que proporciona orientación.
-4. ¿Necesito una política?
-   - Cuando necesito una regla o norma que aplique a todo el departamento; cuando quiero definir un acuerdo único no relacionado a una serie de pasos; o cuando quiero establecer un principio que garantice la seguridad, la integridad o la alineación con los intereses y valores del departamento. Si se puede escribir en una sola oración, una política es más útil que un proceso.
-5. ¿Necesito un estándar?
-   - Cuando busco que el departamento siga un set de normas previamente consensuadas, probadas y mejoradas por una organización respetada.
-
-Si tu necesidad o idea no se puede ver plasmada en ninguna de las anteriores entonces realmente necesitas un proceso. Para definirlo es importante seguir el script de [Creación de procesos](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90001-Creaci%C3%B3n-de-Procesos).
-
+1. Identificar el proposito de la presentación
+   - Se debe cuestionar que se busca demostrar a los clientes, ya sea esto un avance, el producto, la comprensión de la necesidad o algún otro tipo de información.
+2. Identificar el publico objetivo
+   - Se debe identificar para que publico va dirigido la presentación, ya sea unicamente a los clientes con los cuales hemos mantenido contacto o tambien a los profesores u otros invitados.
+3. Considerar la disponibilidad del publico
+   - Teniendo en mente al publico es necesario contactarlos con el proposito de conocer su disponibilidad de horarios para la planeación de la presentación.
+4. Seleccionar el espacio para la presentación
+   - Teniendo en cuenta la cantidad de publico para la presentación y su disponibilidad es necesario buscar y agendar un espacio que cumpla con estas necesidades.
+5. Invitación para el publico
+   - Una vez que se tenga bien definido el lugar, día, hora y publico para la presentación se debe extender de manera cordial la invitación para todo el publico objetivo informandolos del lugar, día y hora de la presentación e invitandolos a confirmar su asistencia.
+6. Recursos a usar
+   - Para la elaboración de la presentación se pueden usar recursos tales como Powerpoint o preferiblemente Canva debido al grado de diseño disponible para aplicar.
+7. Estilo en la presentación
+   - De tener acceso, es recomendable hacer uso de el código de colores del cliente para elaborar una presentación más personalizada al publico objetivo.
+8. Identidad en la presentación
+   - Es necesario incluir en la portada el logo del departamento con el proposito de generar identidad a la presentación, en caso de considerarse aplicable tambien se puede colocar el logo en cada una de las paginas de la presentación siempre y cuando se mantenga en un tamaño pequeño pero razonable para que no tome una cantidad de espacio inecesario.
+9. Contenido de la presentación
+   - Al insertar el contenido de la presentación es recomendable colocar una mayor cantidad de graficas y otros apoyos visuales en lugar de grandes cantidades de texto, esto para hacer una demostración más clara y digerible de la información relevante de la presentación.
+10. Revisión de la presentación
+    - Una vez terminada la elaboración de la presentación es de gran importancia que esta sea mostrada al resto del equipo para su retroalimentación y para asegurarse que toda la información relavante sea tratada.
+11. Preguntas posibles
+    - Es recomendable plantear posibles preguntas que se puedan realizar sobre la presentación y preparar respuestas para estas con el proposito de evitar que los oradores sean tomados por sorpresa.
+12. Practica de la presentación
+    - No importa la confianza que se tenga por parte de los oradores, es de vital importancia que se practique la presentación y el contenido a tratar en esta, esto con el proposito de tener una excelente comunicación discursiva y por consecuencia transmitir efectivamente el contenido a tratar durante la presentación.
+   
 ## Control de cambios
 
-| Versión | Cambio              | Autor del cambio                                            | Aprobado por | Fecha de cambio |
-| ------- | ------------------- | ----------------------------------------------------------- | ------------ | --------------- |
-| v 1.0 | Creación del manual | Alejandra Cabrera, <br/> Arturo Díaz, <br/> Ian Joab Padrón |              | 26/02/2024      |
+| Versión | Cambio                                                       | Autor del cambio             | Aprobado por      | Fecha de cambio |
+| ------- | ------------------------------------------------------------ | ---------------------------- | ----------------- | --------------- |
+| v 1.0   | Creación del Manual                                          | José Diego Llaca Castro      |                   | 02/03/2024      |
+| v 1.1   | Corrección de identación                                     | José Diego Llaca Castro      |                   | 02/03/2024      |
+| v 2.0   | Adición de preguntas posibles y entradas y salidas tangibles | José Diego Llaca Castro      | Alejandra Cabrera | 04/03/2024      |

@@ -86,7 +86,6 @@ const sidebars = {
                           'manuales/man-bdt-002',
                           'manuales/man-bdt-003',
                           'manuales/man-bdt-004',
-                          'manuales/man-bdt-005',
                          ]
                 },
                 {
