@@ -24,6 +24,7 @@ Se deberán agregar enlaces de interés o a documentos relacionados.
 
 ## Control de cambios
 
-| Versión | Cambio              | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | ------------------- | ---------------- | ------------ | --------------- |
-| v 1.0.0 | Creacion de la Guía | Diego Sandoval   |              | 28/02/2024      |
+| Versión | Cambio                   | Autor del cambio | Aprobado por | Fecha de cambio |
+| ------- | ------------------------ | ---------------- | ------------ | --------------- |
+| v 1.0   | Creacion de la Guía      | Diego Sandoval   |              | 28/02/2024      |
+| v 1.1   | Corrección de ortografía y versionamiento | Diego Sandoval   |              | 28/02/2024      |
