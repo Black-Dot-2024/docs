@@ -27,7 +27,6 @@ const sidebars = {
                'nosotros/compromisos',
                'nosotros/equipo',
                'nosotros/mision-vision-valores',
-               'nosotros/vision-proyecto-cr'
             ],        
     },
     {
@@ -87,7 +86,6 @@ const sidebars = {
                           'manuales/man-bdt-002',
                           'manuales/man-bdt-003',
                           'manuales/man-bdt-004',
-                          'manuales/man-bdt-005',
                          ]
                 },
                 {
@@ -97,7 +95,13 @@ const sidebars = {
                           'plantillas/plt-bdt-002',
                           'plantillas/plt-bdt-003',
                           'plantillas/plt-bdt-004',
+                          'plantillas/plt-bdt-005',
                   ]
+                },
+                {
+                  type: 'category',
+                  label: 'Guías',
+                  items: [ 'guias/gui-bdt-001', ]
                 },
              ]
     },
@@ -129,6 +133,13 @@ const sidebars = {
       items: [ 'zeitgeist/Plan de Pruebas',
         'zeitgeist/imapactMappingZG',
         'zeitgeist/vision-proyecto-ZG',
+      ]
+    },
+    {
+      type: 'category',
+      label: 'CR Organizacional',
+      items: [ 'cr/cr-testplan',
+        'cr/vision-proyecto-cr',
       ]
     },
     'FAQs',

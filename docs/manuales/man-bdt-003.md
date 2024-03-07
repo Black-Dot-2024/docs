@@ -1,13 +1,18 @@
-# MAN-BDT-003 Diseño de requisitos del sistema
+# MAN-BDT-003 Consideraciones para Diseñar un Requerimiento
+
 v 1.0
 
 ## Propósito
 
-Determinar las herramientas que se adecuan mejor al requisito.
+Ayudar a los miembros del equipo a decidir la creación de un diagrama para describir un requisito.
+
+## Notas introductorias
+
+Los diagramas son importantes cuando se necesita aclarar la complejidad, visualizar interdependencias, comunicarse eficazmente, o documentar y mantener el sistema a lo largo del tiempo.
 
 ## Involucrados
 
-Todos los integrantes del departamento.
+Team members, AO, TL y PO
 
 ## Entradas
 
@@ -15,34 +20,33 @@ Requisito a nivel sistema.
 
 ## Salidas
 
-Diseño de requisito
+Decisión sobre la necesidad de diseñar un diagrama.
 
 ## Procedimiento
 
-1. Identificar si es un requisito para frontend o para backend
-2. Determinar si necesitas diseñar un diagrama. Para hacerlo consulta el siguiente documento: [MAN-BDT-004](https://black-dot-2024.github.io/black-dot-wiki/manuales/man-bdt-004)
+Hacer un diagrama facilitará los siguientes aspectos:
 
-* Diseño para frontend:
-  - Wireframes UI/UX
+1. Conocer la interdependencia de componentes
+ - Debes ser capaz de visualizar como el requerimiento interactúa con los diferentes componentes del sistema (DB, Usuario, etc).
 
+2. Comprender la descripción y funcionalidad del requerimiento
+ - Identificar y entender su descripción. No eres capaz de explicarle a una persona cómo es que este requerimiento actúa en el sistema, ya sea backend o frontend.
 
-* Si necesitas un diagrama, estas son las alternativas: 
-  - Diagramas de actividad
-  - Diagrama de flujo UI
+3. El diagrama brinda valor a la documentación del proyecto
+ - Existen varios requerimientos que llegan a ocupar el mismo diagrama, solo cambian algunos campos, por eso necesitas analizar si no existe un diagrama parecido. Si existen diagramas similares, entonces no aporta valor.
 
+4. Existen interacciones o flujos complejos
+ - Identificar si tu requisito implica la interacción con el usuario u otros componentes del sistema (como módulos, servicios y subsistemas).
 
-* Diseño para backend:
-  - Json de Salida
+5. Necesitas practicar
+ - Es bueno realizar diagramas para entender las partes de como este requerimiento interactúa con el sistema.
 
-
-* SI necesitas un diagrama, estas son las alternativas: 
-  - Diagrama de Secuencia
-  - Diagrama de componentes 
-
+6. Identificar procesos asíncronos o multihilos
+ - Identificar si tu requisito incluye procesos asíncronos o multihilos.
 
 
 ## Control de cambios
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0 | Creación del manual    | Armando Rosas <br /> Mafer Moreno <br /> Uri Gopar <br /> Ramona Nájera <br /> Ian Padrón | -       | 02/03/2024      |
+| v 1.0 | Creación del manual    | Uri Gopar <br /> Mafer Moreno   | Ian Padrón <br /> Armando Rosas <br /> Ramona Nájera |02/03/2024|
