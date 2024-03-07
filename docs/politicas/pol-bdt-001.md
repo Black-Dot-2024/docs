@@ -30,4 +30,4 @@ Todos los integrantes del departamento.
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0  | Creación de la política | Arturo Díaz, Diego Vega |        | 07/03/2024      |
+| v 1.0  | Creación de la política | Arturo Díaz, Diego Vega | Ian Padrón       | 07/03/2024      |
