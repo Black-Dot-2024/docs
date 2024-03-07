@@ -1,5 +1,5 @@
 # EST-BDT-003 Estandar de versionamiento
-v 1.1
+v 2.0
 
 ## Propósito
 
