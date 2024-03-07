@@ -42,9 +42,10 @@ Ninguno
    - Cuando busco proporcionar una referencia completa y detallada sobre múltiples aspectos de un proceso, política, guía o estándar, un manual es necesario.
 
 Si tu necesidad o idea no se puede ver plasmada en ninguna de las anteriores entonces realmente necesitas un proceso. Para definirlo es importante seguir el [PRO-BDT-001](https://black-dot-2024.github.io/docs/procesos/pro-bdt-001) Creación de Procesos.
+
 ## Control de cambios
 
-| Versión | Cambio              | Autor del cambio                                            | Aprobado por | Fecha de cambio |
-| ------- | ------------------- | ----------------------------------------------------------- | ------------ | --------------- |
-| v 1.0 | Creación del manual | Alejandra Cabrera, <br/> Arturo Díaz, <br/> Ian Joab Padrón |              | 26/02/2024      |
-| v 2.0 | Migración de manual a guía. Actualización general de formato.  | Arturo Díaz |              | 06/03/2024      |
+| Versión | Cambio                                                        | Autor del cambio                                            | Aprobado por | Fecha de cambio |
+| ------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------ | --------------- |
+| v 1.0   | Creación del manual                                           | Alejandra Cabrera, <br/> Arturo Díaz, <br/> Ian Joab Padrón |              | 26/02/2024      |
+| v 2.0   | Migración de manual a guía. Actualización general de formato. | Arturo Díaz                                                 |              | 06/03/2024      |

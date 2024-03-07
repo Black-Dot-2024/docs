@@ -21,11 +21,9 @@ Todos los integrantes del departamento.
 
 Solución documentada.
 
-
 ## Procedimiento
 
 Identificar el nivel de conflicto.
-
 
 ## Procedimiento
 
@@ -41,6 +39,7 @@ Este es el nivel más alto de conflicto. La mentalidad principal es “ganar a t
 En este nivel de conflicto se debe de actuar conscientemente importante hacer lo que sea necesario para prevenir que las personas se lastimen unas a otras, sin poner en riesgo tu integridad.
 
 Algunas recomendaciones son:
+
 <ul>
 <li>Separar a las personas involucradas físicamente, si es seguro hacerlo.</li>
 <li>Alertar a las personas, en voz alta, que estás llamando a seguridad.</li>
@@ -63,6 +62,7 @@ En este nivel, las partes pueden creer que la otra nunca cambiará, por lo que n
 Para este nivel de conflicto, establece estructuras de seguridad para disminuir el nivel de conflictos a través de la diplomacia, pensamientos constructivos del otro grupo, empatía y negociaciones.
 
 Algunas recomendaciones son:
+
 <ul>
 <li>Facilitar la comunicación entre las partes en conflicto.</li>
 <li>Proporcionar un espacio seguro para que las partes expresen sus preocupaciones y sentimientos.</li>
@@ -81,6 +81,7 @@ Algunas recomendaciones son:
 En este nivel, el lenguaje se distorsiona y los problemas reales se pierden. De modo que se puede comenzar a personalizar el conflicto, centrándose en las personas en lugar de los problemas.
 
 Algunas recomendaciones son:
+
 <ul>
 <li>Negociar cuando el objeto de conflicto se puede dividir y no se comprometen los valores de cada parte.</li>
 <li>Identificar los intereses de cada parte.</li>
@@ -99,6 +100,7 @@ Algunas recomendaciones son:
 Aquí, las personas pueden comenzar a atender al ego y tomar una postura defensiva en lugar de trabajar juntas para resolverlos.
 
 Algunas recomendaciones son:
+
 <ul>
 <li>Empodera al otro para resolver el problema</li>
 <li>Crea seguridad en el equipo a través de acciones que restablezcan el sentimiento de seguridad, por ejemplo: juegos y actividades de integración que fortalezcan el sentido de pertenencia y fortalezcan los valores del equipo.</li>
@@ -116,6 +118,7 @@ Algunas recomendaciones son:
 Este es el nivel más bajo de conflicto, donde los miembros del equipo se involucran en el conflicto de manera abierta y constructiva y buscan entender las perspectivas de los demás para encontrar una solución en conjunto.
 
 Algunas recomendaciones son:
+
 <ul>
 <li>Buscar una solución en la que ambas partes resulten ganadoras.</li>
 <li>Facilitar la comunicación abierta y honesta.</li>
@@ -126,10 +129,8 @@ Algunas recomendaciones son:
 
 </details>
 
-
-
 ## Control de cambios
 
-| Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0 | Creación del Manual | Damariz Licea, David Langarica         |       | 04/03/2024      |
+| Versión | Cambio              | Autor del cambio               | Aprobado por   | Fecha de cambio |
+| ------- | ------------------- | ------------------------------ | -------------- | --------------- |
+| v 1.0   | Creación del Manual | Damariz Licea, David Langarica | Daniel Hurtado | 04/03/2024      |

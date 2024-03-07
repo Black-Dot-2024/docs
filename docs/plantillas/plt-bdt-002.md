@@ -25,4 +25,4 @@ Los involucrados en la política
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 0.0 | Descripción del cambio | Nombre           | Nombre       | dd/mm/aaaa      |
+| v 0.0   | Descripción del cambio | Nombre           | Nombre       | dd/mm/aaaa      |
