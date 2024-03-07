@@ -21,7 +21,7 @@ Diseño de requisito
 ## Procedimiento
 
 1. Identificar si es un requisito para frontend o para backend
-2. Determinar si necesitas diseñar un diagrama. Para hacerlo consulta el siguiente documento: [MAN-BDT-004](https://black-dot-2024.github.io/black-dot-wiki/manuales/man-bdt-004)
+2. Determinar si necesitas diseñar un diagrama. Para hacerlo consulta el siguiente documento: [MAN-BDT-004](https://black-dot-2024.github.io/docs/manuales/man-bdt-004)
 
 - Diseño para frontend:
 
