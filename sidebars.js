@@ -99,6 +99,11 @@ const sidebars = {
                           'plantillas/plt-bdt-005',
                   ]
                 },
+                {
+                  type: 'category',
+                  label: 'Guías',
+                  items: [ 'guias/gui-bdt-001', ]
+                },
              ]
     },
     {
