@@ -48,6 +48,11 @@ const sidebars = {
       items: [
                 {
                   type: 'category',
+                  label: 'Políticas',
+                  items: [ 'politicas/pol-bdt-001' ]
+                },
+                {
+                  type: 'category',
                   label: 'Procesos',
                   items: ['procesos/Mapa de Procesos',
                           'procesos/pro-bdt-001',
