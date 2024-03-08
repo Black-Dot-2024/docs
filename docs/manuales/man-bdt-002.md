@@ -1,4 +1,4 @@
-# MAN-BDT-003 Consideraciones para Diseñar un Requerimiento
+# MAN-BDT-002 Consideraciones para Diseñar un Requerimiento
 
 v 1.0
 
