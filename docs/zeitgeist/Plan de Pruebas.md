@@ -135,7 +135,7 @@ La lista que se presenta a continuación identifica los elementos (casos de uso,
 - Usabilidad
 - Funcionalidad del sistema completo
 
-## 3. Milestones
+## 3. Hitos
 
 | Etapa                             | Descripción                  | Fecha      |
 | --------------------------------- | ---------------------------- | ---------- |
@@ -189,7 +189,10 @@ Para realizar una prueba unitaria en el frontend del proyecto, es necesario elab
 
 ##### Descripción
 
-Una prueba de integración ayuda a verificar que todos los componentes integrados funcionen correctamente, Son ejecutadas cuando todos los componentes de una historia de usuario o vista estén desarrollados. El tester deberá seguir todos los casos de prueba y asegurar que todas las pruebas pasaron exitosamente. De lo contrario, deberá avisar a los desarrolladores para corregir los errores. Esta fase termina cuando todos los casos de prueba integrales fueron ejecutados y todos los defectos fueron cerrados.
+Las pruebas de integración verifican que todos los componentes de una historia de usuario o de una vista funcionen correctamente. Son ejecutadas cuando estos componentes ya han sido desarrollados.<br/>
+El tester deberá crear los casos de prueba y asegurar que la parte del sistema que está evaluando pase todos los casos, de lo contrario, deberá avisar a los desarrolladores para corregir los errores. <br/>
+Esta fase termina cuando todos los casos de prueba integrales fueron ejecutados y todos los defectos fueron corregidos
+
 
 ##### Backend
 
