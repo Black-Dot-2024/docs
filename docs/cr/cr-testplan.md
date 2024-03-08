@@ -25,13 +25,13 @@ El siguiente plan de pruebas busca estandarizar el proceso de pruebas para el pr
 
 ### 1.2 Alcance
 
-| Etapa de prueba |                       Caso de uso                       | Back / Front |   Tipo de Prueba    |                  ¿Qué se evalúa?                   |
-| :-------------: | :-----------------------------------------------------: | :----------: | :-----------------: | :------------------------------------------------: |
-|    Unitaria     |         Desarrollo de funcionalidad específica          |     Back     |    Automatizada     | Validación de lógica de negocio, manejo de errores |
-|                 |                                                         |    Front     |       Manual        |          Usabilidad, Interfaz de Usuario           |
-|   Integración   |          Requisitos con restricciones previas           |     Back     |       Manual        |    Validación de integración, interoperabilidad    |
-|                 | Cuando todos los elementos de una vista estén completos |    Front     |       Manual        |           Usabilidad y reglas de negocio           |
-|     Sistema     |         Funcionalidades principales del sistema         | Back y Front | Pruebas en voz alta |             Rendimiento, escalabilidad             |
+| Etapa de prueba |                       Caso de uso                       |   Tipo de Prueba    |                  ¿Qué se evalúa?                   |
+| :-------------: | :-----------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+|    Unitaria     |         Desarrollo de funcionalidad específica          |    Automatizada     | Validación de lógica de negocio, manejo de errores |
+|                 |                                                         |       Manual        |          Usabilidad, Interfaz de Usuario           |
+|   Integración   |          Requisitos con restricciones previas           |       Manual        |    Validación de integración, interoperabilidad    |
+|                 | Cuando todos los elementos de una vista estén completos |       Manual        |           Usabilidad y reglas de negocio           |
+|     Sistema     |         Funcionalidades principales del sistema         | Pruebas en voz alta |             Rendimiento, escalabilidad             |
 
 **Consideraciones**
 
@@ -128,39 +128,18 @@ La lista que se presenta a continuación identifica los elementos (requerimiento
 
 Una prueba unitaria comprueba el funcionamiento correcto de un requisito de sistema. El tester que realizará las pruebas, deberá llenar el checklist de pruebas unitarias verificando que el código cumpla con el criterio. El tester debe ejecutar las pruebas y avisar al desarrollador en caso de que se necesite la correción de errores hasta que las pruebas pasen exitosamente.
 
-##### Backend
-
-Para realizar pruebas unitarias en el backend del proyecto, se utilizará (POR DEFINIR) para realizar pruebas automatizadas. Documentar el resultado de las pruebas.
-
 ###### Entrada
 
 | Test Id | Escenario | Parametros | Resultado Esperado | Resultado Obtenido | Fecha Iteración "1 a N" | Estatus |
 | ------- | --------- | ---------- | ------------------ | ------------------ | ----------------------- | ------- |
-| RF1.1B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.2B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.3B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.4B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.1  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.2  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.3  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.4  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
 
 ###### Salida
 
-_Plantilla de pruebas unitarias de backend documentadas._
-
-##### Frontend
-
-Para realizar una prueba unitaria en el frontend del proyecto, es necesario elaborar una matriz de pruebas con escenarios donde el tester considere que podría llegar a fallar.
-
-###### Entrada
-
-| Test Id | Escenario | Parametros | Resultado Esperado | Resultado Obtenido | Fecha Iteración "1 a N" | Estatus |
-| ------- | --------- | ---------- | ------------------ | ------------------ | ----------------------- | ------- | --- |
-| RF1.1F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.2F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.3F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.4F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     | B   |
-
-###### Salida
-
-_Plantilla de pruebas unitarias de frontend documentadas._
+_Plantilla de pruebas unitarias documentadas._
 
 #### 4.1.2. Pruebas Integración
 
@@ -168,39 +147,19 @@ _Plantilla de pruebas unitarias de frontend documentadas._
 
 Una prueba de integración ayuda a verificar que todos los componentes integrados funcionen correctamente, Son ejecutadas cuando todos los componentes de una historia de usuario o vista estén desarrollados. El tester deberá seguir todos los casos de prueba y asegurar que todas las pruebas pasaron exitosamente. De lo contrario, deberá avisar a los desarrolladores para corregir los errores. Esta fase termina cuando todos los casos de prueba integrales fueron ejecutados y todos los defectos fueron cerrados.
 
-##### Backend
-
-Las pruebas de integración del backend se realizan por cada requisito de sistema. El tester debe realizar escenarios prueba en donde verifique que solo usuarios autenticados y con privilegios específicos puedan acceder a sus funcionalidades correspondientes.
-
 ###### Entrada
 
 | Test Id | Escenario | Parametros | Resultado Esperado | Resultado Obtenido | Fecha Iteración "1 a N" | Estatus |
 | ------- | --------- | ---------- | ------------------ | ------------------ | ----------------------- | ------- |
-| RF1.1B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.2B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.3B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.4B  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.1  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.2  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.3  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
+| RF1.4  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
 
 ###### Salida
 
-_Plantilla de pruebas de integración de backend documentadas._
+_Plantilla de pruebas de integración documentadas._
 
-##### Frontend
-
-Las pruebas de integración de frontend se hacen por cada vista del sistema. El tester debe realizar escenarios para que los usuarios que tengan roles específicos puedan acceder a ciertas funcionalidades y en caso de que no, sean redirigidos correctamente.
-
-###### Entrada
-
-| Test Id | Escenario | Parametros | Resultado Esperado | Resultado Obtenido | Fecha Iteración "1 a N" | Estatus |
-| ------- | --------- | ---------- | ------------------ | ------------------ | ----------------------- | ------- |
-| RF1.1F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.2F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.3F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-| RF1.4F  | N/A       | N/A        | N/A                | N/A                | N/A                     | N/A     |
-
-###### Salida
-
-_Plantilla de pruebas de integración de frontend documentadas._
 
 #### 4.1.3 Pruebas de Sistema
 
