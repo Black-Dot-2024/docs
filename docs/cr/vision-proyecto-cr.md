@@ -1,6 +1,10 @@
-# Visión del Proyecto CR
+# Visión del Proyecto Talent 360
 
 ## Necesidad
+
+Automatizar la aplicación de los diagnósticos organizacionales y la generación de reportes, a fin de profesionalizar nuestros servicios y ofrecerle una mejor experiencia al cliente
+
+## Misión
 
 Atender la ineficiencia en el proceso de diagnóstico de los colaboradores, junto con la falta de personalización en los formularios de captura de datos y en los planes de desarrollo.
 
@@ -95,6 +99,7 @@ gantt
         Desarrollo de visión compartida :2024-02-14, 1d
         Milestone review :2024-03-5, 3d
         Comunicar visión con CR   :1d
+        Entrenamiento con Odoo :2024-03-18, 12d
     section Construction
         MVP :2024-04-1, 40d
         1° Iteración :2024-04-1, 12d
@@ -108,13 +113,3 @@ gantt
         MBI 2 Transition :2024-06-5, 3d
 
 ```
-
-## Arquitectura
-
-```
-Falta por agregar
-```
-
-## Riesgos
-
-[Plan de Riesgos](https://docs.google.com/spreadsheets/d/1qlkNWrnsY4GdnN6vlMMmOpeQMdMY4EydTHZ9DmPvUGE/edit?usp=sharing)

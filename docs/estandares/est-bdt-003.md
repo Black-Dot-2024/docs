@@ -1,5 +1,6 @@
 # EST-BDT-003 Estandar de versionamiento
-v 1.1
+
+v 2.0
 
 ## Propósito
 
@@ -25,11 +26,10 @@ Este estándar busca reemplazar los métodos de versionamiento complejos o detal
 
 1. **Control de Cambios:** Mantener un registro actualizado en un lugar accesible por todos los miembros del equipo, donde se documenten las versiones junto con sus notas de versión correspondientes.
 
-
 ## Control de cambios
 
-| Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0 | Creación del documento   | Daniel Hurtado   | Frida Bailleres       | 01/03/2024      |
-| v 1.1 | Correción ortográfica    | Olimpia García   | Diego Llaca           | 04/03/2024      |
-| v 2.0 | Agregar sección de errores ortográficos | Sergio Garnica González   |             | 05/03/2024      |
+| Versión | Cambio                                  | Autor del cambio        | Aprobado por    | Fecha de cambio |
+| ------- | --------------------------------------- | ----------------------- | --------------- | --------------- |
+| v 1.0   | Creación del documento                  | Daniel Hurtado          | Frida Bailleres | 01/03/2024      |
+| v 1.1   | Correción ortográfica                   | Olimpia García          | Diego Llaca     | 04/03/2024      |
+| v 2.0   | Agregar sección de errores ortográficos | Sergio Garnica González |                 | 05/03/2024      |

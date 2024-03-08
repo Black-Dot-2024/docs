@@ -39,6 +39,6 @@ Decisión tomada documentada
 
 ## Control de cambios
 
-| Versión | Cambio               | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | -------------------- | ---------------- | ------------ | --------------- |
-| v 1.0   | Creación del proceso | David Langarica  |              | 05/03/2024      |
+| Versión | Cambio               | Autor del cambio | Aprobado por   | Fecha de cambio |
+| ------- | -------------------- | ---------------- | -------------- | --------------- |
+| v 1.0   | Creación del proceso | David Langarica  | Daniel Hurtado | 05/03/2024      |
