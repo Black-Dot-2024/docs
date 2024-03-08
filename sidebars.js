@@ -90,7 +90,6 @@ const sidebars = {
                   items: [ 'manuales/man-bdt-001',
                           'manuales/man-bdt-002',
                           'manuales/man-bdt-003',
-                          'manuales/man-bdt-004',
                          ]
                 },
                 {
@@ -107,7 +106,8 @@ const sidebars = {
                   type: 'category',
                   label: 'Guías',
                   items: [ 'guias/gui-bdt-001',
-                           'guias/gui‐bdt‐002', 
+                           'guias/gui-bdt-002',
+                           'guias/gui-bdt-003', 
                          ] 
                 },
              ]
