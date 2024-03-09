@@ -73,6 +73,7 @@ const sidebars = {
                           'procesos/pro-bdt-009',
                           'procesos/pro-bdt-010',
                           'procesos/pro-bdt-011',
+                          'procesos/pro-bdt-012',
                         ]
                 },
                 {
