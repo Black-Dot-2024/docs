@@ -1,4 +1,4 @@
-# MAN-BDT-004 ¿Cómo resuelvo un conflicto?
+# MAN-BDT-003 ¿Cómo resuelvo un conflicto?
 
 v 1.0
 

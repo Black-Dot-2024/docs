@@ -1,4 +1,4 @@
-# MAN-BDT-002 Diseño de requisitos del sistema
+# MAN-BDT-001 Diseño de requisitos del sistema
 
 v 1.0
 
@@ -21,7 +21,7 @@ Diseño de requisito
 ## Procedimiento
 
 1. Identificar si es un requisito para frontend o para backend
-2. Determinar si necesitas diseñar un diagrama. Para hacerlo consulta el siguiente documento: [MAN-BDT-004](https://black-dot-2024.github.io/docs/manuales/man-bdt-003)
+2. Determinar si necesitas diseñar un diagrama. Para hacerlo consulta el siguiente documento: [MAN-BDT-002](https://black-dot-2024.github.io/docs/manuales/man-bdt-002)
 
 - Diseño para frontend:
 
