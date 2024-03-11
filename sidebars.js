@@ -46,84 +46,86 @@ const sidebars = {
       type: 'category',
       label: 'WoW',
       items: [
-        {
-          type: 'category',
-          label: 'Políticas',
-          items: ['politicas/pol-bdt-001']
-        },
-        {
-          type: 'category',
-          label: 'Procesos',
-          items: ['procesos/Mapa de Procesos',
-            'procesos/pro-bdt-001',
-            'procesos/pro-bdt-002',
-            'procesos/pro-bdt-003',
-            'procesos/pro-bdt-004',
-            'procesos/pro-bdt-005',
-            {
-              type: 'category',
-              label: 'PRO-BDT-006 Gestión de solicitud de cambio de requerimientos',
-              items: [
-                'procesos/pro-bdt-006/pro-bdt-006',
-                'procesos/pro-bdt-006/f-pro-bdt-006a',
-              ]
-            },
-            'procesos/pro-bdt-007',
-            'procesos/pro-bdt-008',
-            'procesos/pro-bdt-009',
-            'procesos/pro-bdt-010',
-            'procesos/pro-bdt-011',
-            'procesos/pro-bdt-012',
-            'procesos/pro-bdt-013',
-          ]
-        },
-        {
-          type: 'category',
-          label: 'Estándares',
-          items: ['estandares/est-bdt-001',
-            'estandares/est-bdt-002',
-            'estandares/est-bdt-003',
-            'estandares/est-bdt-004',
-            'estandares/est-bdt-005',
-            'estandares/est-bdt-006',
-            'estandares/est-bdt-007',
-            {
-              type: 'category',
-              label: 'EST-BDT-008 Estándar para Pull Request de Código',
-              items: [
-                'estandares/est-bdt-008/est-bdt-008',
-                'estandares/est-bdt-008/f-est-bdt-008A',
-              ]
-            },
-          ]
-        },
-        {
-          type: 'category',
-          label: 'Manuales',
-          items: ['manuales/man-bdt-001',
-            'manuales/man-bdt-002',
-            'manuales/man-bdt-003',
-          ]
-        },
-        {
-          type: 'category',
-          label: 'Plantillas',
-          items: ['plantillas/plt-bdt-001',
-            'plantillas/plt-bdt-002',
-            'plantillas/plt-bdt-003',
-            'plantillas/plt-bdt-004',
-            'plantillas/plt-bdt-005',
-          ]
-        },
-        {
-          type: 'category',
-          label: 'Guías',
-          items: ['guias/gui-bdt-001',
-            'guias/gui-bdt-002',
-            'guias/gui-bdt-003',
-          ]
-        },
-      ]
+                {
+                  type: 'category',
+                  label: 'Políticas',
+                  items: [ 'politicas/pol-bdt-001' ]
+                },
+                {
+                  type: 'category',
+                  label: 'Procesos',
+                  items: ['procesos/Mapa de Procesos',
+                          'procesos/pro-bdt-001',
+                          'procesos/pro-bdt-002',
+                          {
+                            type: 'category',
+                            label: 'PRO-BDT-003 Identificación de la Necesidad del Cliente',
+                            items: [
+                              'procesos/pro-bdt-003/pro-bdt-003',
+                              'procesos/pro-bdt-003/f-pro-bdt-003a'
+                            ]
+                          },
+                          {
+                            type: 'category',
+                            label: 'PRO-BDT-004 Estimación de requerimientos',
+                            items: [
+                              'procesos/pro-bdt-004/pro-bdt-004',
+                              'procesos/pro-bdt-004/f-pro-bdt-004a'
+                            ]
+                          },
+                          'procesos/pro-bdt-005',
+                          {
+                            type: 'category',
+                            label: 'PRO-BDT-006 Gestión de solicitud de cambio de requerimientos',
+                            items: [
+                              'procesos/pro-bdt-006/pro-bdt-006',
+                              'procesos/pro-bdt-006/f-pro-bdt-006a',
+                            ]
+                          },
+                          'procesos/pro-bdt-007',
+                          'procesos/pro-bdt-008',
+                          'procesos/pro-bdt-009',
+                          'procesos/pro-bdt-010',
+                          'procesos/pro-bdt-011',
+                          'procesos/pro-bdt-012',
+                        ]
+                },
+                {
+                  type: 'category',
+                  label: 'Estándares',
+                  items: [ 'estandares/est-bdt-001', 
+                          'estandares/est-bdt-002',
+                          'estandares/est-bdt-003',
+                          'estandares/est-bdt-004',
+                        ]
+                },
+                {
+                  type: 'category',
+                  label: 'Manuales',
+                  items: [ 'manuales/man-bdt-001',
+                          'manuales/man-bdt-002',
+                          'manuales/man-bdt-003',
+                         ]
+                },
+                {
+                  type: 'category',
+                  label: 'Plantillas',
+                  items: [ 'plantillas/plt-bdt-001',
+                          'plantillas/plt-bdt-002',
+                          'plantillas/plt-bdt-003',
+                          'plantillas/plt-bdt-004',
+                          'plantillas/plt-bdt-005',
+                  ]
+                },
+                {
+                  type: 'category',
+                  label: 'Guías',
+                  items: [ 'guias/gui-bdt-001',
+                           'guias/gui-bdt-002',
+                           'guias/gui-bdt-003', 
+                         ] 
+                },
+             ]
     },
     {
       type: 'category',
