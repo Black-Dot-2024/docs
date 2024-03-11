@@ -9,7 +9,7 @@ Autores:
 
 ## 1. Introducción
 
-El siguiente plan de pruebas busca estandarizar el proceso de pruebas para el proyecto de Talent Dot. El plan se desevnuelve de la siguiente manera:
+El siguiente plan de pruebas busca estandarizar el proceso de pruebas para el proyecto de Talent Dot. El plan se desenvuelve de la siguiente manera:
 
 ### 1.1 Propósito
 
@@ -186,8 +186,6 @@ Las siguientes herramientas serán utilizadas para este proyecto:
 
 |  **Tipo de prueba**  |         **Herramienta**         |
 | :------------------: | :-----------------------------: |
-|  Unitarias Backend   |           Por definir           |
-|  Unitarias Frontend  |        Matriz de Pruebas        |
-| Integración Backend  | Por definir y Matriz de Pruebas |
-| Integración FrontEnd |        Matriz de Pruebas        |
+|       Unitarias      |        Matriz de Pruebas        |
+|      Integración     |        Matriz de Pruebas        |
 |       Sistema        |       Pruebas en voz alta       |
