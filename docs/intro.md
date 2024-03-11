@@ -21,11 +21,17 @@ En esta wiki, compartimos conocimientos y recursos sobre:
 Para obtener más información sobre el modelo CMMI y las mejores prácticas en la gestión de proyectos de software, consulta las siguientes referencias:
 
 [CMMI Institute](https://cmmiinstitute.com/): Sitio oficial del CMMI Institute, donde puedes encontrar información detallada sobre el modelo CMMI y sus diferentes niveles.
+
 [Project Management Institute](https://www.pmi.org/): Recursos y estándares para la gestión de proyectos, incluyendo buenas prácticas que pueden complementar la implementación del modelo CMMI.
+
 [IEEE Software Engineering Standards](https://www.ieee.org/): Estándares de ingeniería de software de IEEE, que proporcionan directrices para el desarrollo y mantenimiento de software de calidad.
+
 [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering): Un compendio de conocimientos en ingeniería de software que puede servir como guía para las prácticas y procesos de desarrollo de software.
+
 [Practical Software and Systems Measurement (PSM)](https://www.psmsc.com/): Una guía para la medición y análisis en proyectos de software, que puede ayudar a implementar procesos de gestión de proyectos y aseguramiento de la calidad alineados con CMMI.
+
 [Agile Alliance](https://www.agilealliance.org/): Recursos y guías sobre metodologías ágiles, que pueden ser útiles para integrar prácticas ágiles con el modelo CMMI.
+
 [Scrum Guide](https://scrumguides.org/): La guía oficial de Scrum, que puede complementar la implementación del modelo CMMI en proyectos que utilizan esta metodología ágil.
 
 ### Agradecimientos
