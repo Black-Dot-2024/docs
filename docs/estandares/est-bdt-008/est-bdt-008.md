@@ -1,4 +1,4 @@
-# EST-BDT-007 Estándar para Pull Request de Código
+# EST-BDT-008 Estándar para Pull Request de Código
 
 v 1.0
 
