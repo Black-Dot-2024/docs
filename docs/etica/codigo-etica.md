@@ -1,4 +1,4 @@
-# Código de ética
+# Código de Ética
 
 ## Indice
 1. [Introducción](#introducción)
