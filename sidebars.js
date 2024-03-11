@@ -32,7 +32,9 @@ const sidebars = {
     {
       type: 'category',
       label: 'Ética',
-      items: [ 'etica/denuncias-anonimas'],
+      items: [ 'etica/denuncias-anonimas',
+               'etica/codigo-etica',
+             ],
     },
     {
       type: 'category',
