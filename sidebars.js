@@ -84,6 +84,15 @@ const sidebars = {
             'estandares/est-bdt-003',
             'estandares/est-bdt-004',
             'estandares/est-bdt-005',
+            'estandares/est-bdt-006',
+            {
+              type: 'category',
+              label: 'EST-BDT-007 Estándar para Pull Request de Código ',
+              items: [
+                'estandares/est-bdt-007/est-bdt-007',
+                'estandares/est-bdt-007/f-est-bdt-007A',
+              ]
+            },
           ]
         },
         {
