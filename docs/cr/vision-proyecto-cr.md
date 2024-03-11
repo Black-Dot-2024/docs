@@ -16,9 +16,8 @@ Atender la ineficiencia en el proceso de diagnóstico de los colaboradores, junt
 
 - Código fuente
 - Manual de usuario
-- Manual de despliegue
 - Perfil de desarrollador
-- Descripción general del sistema
+- Plan de proyecto
 
 ## Ciclo de vida del proyecto
 
@@ -75,12 +74,12 @@ Los objetivos de la fase de construcción son:
 
 |                                                               | Fecha Esperada |
 | ------------------------------------------------------------- | -------------- |
-| ¿El stakeholder está de acuerdo con tu estrategia?            |                |
-| ¿Realmente puedes construir la solución propuesta?            |                |
-| ¿El proyecto sigue teniendo sentido?                          |                |
-| ¿Tiene sentido liberar la solución actual?                    |                |
-| ¿La solución va a funcionar en producción?                    |                |
-| ¿Están contentos los stakeholders con la solución desplegada? |                |
+| ¿El stakeholder está de acuerdo con tu estrategia?            | 08/03/2024 - 11/03/2024 |
+| ¿Realmente puedes construir la solución propuesta?            | 08/04/2024 - 12/04/2024 |
+| ¿El proyecto sigue teniendo sentido?                          | 22/04/2024 - 26/04/2024 |
+| ¿Tiene sentido liberar la solución actual?                    | 29/04/2024 - 03/05/2024 |
+| ¿La solución va a funcionar en producción?                    | 05/05/2024 - 10/05/2024 |
+| ¿Están contentos los stakeholders con la solución desplegada? | 03/06/2024 - 15/06/2024 |
 
 ## Iteraciones del proyecto
 
