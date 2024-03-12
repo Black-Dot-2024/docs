@@ -213,7 +213,11 @@ const sidebars = {
     {
       type: "category",
       label: "CR Organizacional",
-      items: ["cr/cr-testplan", "cr/vision-proyecto-cr", "cr/impact-mapping"],
+      items: [
+        "cr/cr-testplan",
+        "cr/vision-proyecto-cr",
+        "cr/impact-mapping-cr",
+      ],
     },
     "FAQs",
   ],
