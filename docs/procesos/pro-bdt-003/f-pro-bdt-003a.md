@@ -37,8 +37,7 @@ En el centro del mapa de actores se encuentran los actores más interesados.
 
 Ejemplo:
 
-*_Insertar la imagen del docs aqui_*
-
+![Mapa de Actores Zeitgeist](https://raw.githubusercontent.com/Black-Dot-2024/docs/main/static/img/Mapa%20de%20Actores%20Zeitgeist.png)
 
 ## Control de cambios
 
