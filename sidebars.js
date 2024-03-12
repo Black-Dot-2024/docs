@@ -27,6 +27,7 @@ const sidebars = {
         "nosotros/conociendo-blackdot",
         "nosotros/compromisos",
         "nosotros/equipo",
+        "nosotros/objetivos-lideres",
         "nosotros/mision-vision-valores",
       ],
     },
@@ -50,13 +51,32 @@ const sidebars = {
       items: [
         {
           type: "category",
+          label: "Políticas",
+          items: ["politicas/pol-bdt-001"],
+        },
+        {
+          type: "category",
           label: "Procesos",
           items: [
             "procesos/Mapa de Procesos",
             "procesos/pro-bdt-001",
             "procesos/pro-bdt-002",
-            "procesos/pro-bdt-003",
-            "procesos/pro-bdt-004",
+            {
+              type: "category",
+              label: "PRO-BDT-003 Identificación de la Necesidad del Cliente",
+              items: [
+                "procesos/pro-bdt-003/pro-bdt-003",
+                "procesos/pro-bdt-003/f-pro-bdt-003a",
+              ],
+            },
+            {
+              type: "category",
+              label: "PRO-BDT-004 Estimación de requerimientos",
+              items: [
+                "procesos/pro-bdt-004/pro-bdt-004",
+                "procesos/pro-bdt-004/f-pro-bdt-004a",
+              ],
+            },
             "procesos/pro-bdt-005",
             {
               type: "category",
@@ -72,6 +92,7 @@ const sidebars = {
             "procesos/pro-bdt-009",
             "procesos/pro-bdt-010",
             "procesos/pro-bdt-011",
+            "procesos/pro-bdt-012",
           ],
         },
         {
@@ -91,7 +112,6 @@ const sidebars = {
             "manuales/man-bdt-001",
             "manuales/man-bdt-002",
             "manuales/man-bdt-003",
-            "manuales/man-bdt-004",
           ],
         },
         {
@@ -108,8 +128,54 @@ const sidebars = {
         {
           type: "category",
           label: "Guías",
-          items: ["guias/gui-bdt-001"],
+          items: [
+            "guias/gui-bdt-001",
+            "guias/gui-bdt-002",
+            "guias/gui-bdt-003",
+          ],
         },
+      ],
+    },
+    {
+      type: "category",
+      label: "SCAMPI",
+      items: [
+        "scampi/pp",
+        "scampi/pi",
+        "scampi/cm",
+        "scampi/rd",
+        "scampi/ver",
+        "scampi/val",
+        "scampi/opd",
+        "scampi/reqm",
+        "scampi/ot",
+        "scampi/ppqa",
+        "scampi/opf",
+        "scampi/dar",
+        "scampi/pmc",
+        "scampi/ts",
+        "scampi/rskm",
+        "scampi/ipm",
+        "scampi/ma",
+      ],
+    },
+    {
+      type: "category",
+      label: "Zeitgeist",
+      items: [
+        "zeitgeist/Plan de Pruebas",
+        "zeitgeist/imapactMappingZG",
+        "zeitgeist/vision-proyecto-ZG",
+      ],
+    },
+    {
+      type: "category",
+      label: "CR Organizacional",
+      items: [
+        "cr/cr-testplan",
+        "cr/impact-mapping-cr",
+        "cr/vision-proyecto-cr",
+        "cr/diagrama-de-despliegue-cr",
       ],
     },
     {

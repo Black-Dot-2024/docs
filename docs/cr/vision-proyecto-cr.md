@@ -1,6 +1,10 @@
-# Visión del Proyecto CR
+# Visión del Proyecto Talent 360
 
 ## Necesidad
+
+Automatizar la aplicación de los diagnósticos organizacionales y la generación de reportes, a fin de profesionalizar nuestros servicios y ofrecerle una mejor experiencia al cliente
+
+## Misión
 
 Atender la ineficiencia en el proceso de diagnóstico de los colaboradores, junto con la falta de personalización en los formularios de captura de datos y en los planes de desarrollo.
 
@@ -12,9 +16,8 @@ Atender la ineficiencia en el proceso de diagnóstico de los colaboradores, junt
 
 - Código fuente
 - Manual de usuario
-- Manual de despliegue
 - Perfil de desarrollador
-- Descripción general del sistema
+- Plan de proyecto
 
 ## Ciclo de vida del proyecto
 
@@ -71,12 +74,12 @@ Los objetivos de la fase de construcción son:
 
 |                                                               | Fecha Esperada |
 | ------------------------------------------------------------- | -------------- |
-| ¿El stakeholder está de acuerdo con tu estrategia?            |                |
-| ¿Realmente puedes construir la solución propuesta?            |                |
-| ¿El proyecto sigue teniendo sentido?                          |                |
-| ¿Tiene sentido liberar la solución actual?                    |                |
-| ¿La solución va a funcionar en producción?                    |                |
-| ¿Están contentos los stakeholders con la solución desplegada? |                |
+| ¿El stakeholder está de acuerdo con tu estrategia?            | 08/03/2024 - 11/03/2024 |
+| ¿Realmente puedes construir la solución propuesta?            | 08/04/2024 - 12/04/2024 |
+| ¿El proyecto sigue teniendo sentido?                          | 22/04/2024 - 26/04/2024 |
+| ¿Tiene sentido liberar la solución actual?                    | 29/04/2024 - 03/05/2024 |
+| ¿La solución va a funcionar en producción?                    | 05/05/2024 - 10/05/2024 |
+| ¿Están contentos los stakeholders con la solución desplegada? | 03/06/2024 - 15/06/2024 |
 
 ## Iteraciones del proyecto
 
@@ -95,6 +98,7 @@ gantt
         Desarrollo de visión compartida :2024-02-14, 1d
         Milestone review :2024-03-5, 3d
         Comunicar visión con CR   :1d
+        Entrenamiento con Odoo :2024-03-18, 12d
     section Construction
         MVP :2024-04-1, 40d
         1° Iteración :2024-04-1, 12d
@@ -108,13 +112,3 @@ gantt
         MBI 2 Transition :2024-06-5, 3d
 
 ```
-
-## Arquitectura
-
-```
-Falta por agregar
-```
-
-## Riesgos
-
-[Plan de Riesgos](https://docs.google.com/spreadsheets/d/1qlkNWrnsY4GdnN6vlMMmOpeQMdMY4EydTHZ9DmPvUGE/edit?usp=sharing)

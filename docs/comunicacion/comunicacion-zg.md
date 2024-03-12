@@ -10,7 +10,6 @@ En nuestro departamento reconocemos la importancia de una comunicación responsa
 
 Es importante seguir fielmente los valores y Código de ética del departamento en todas nuestras interacciones.
 
-
 ## Medios
 
 El canal principal de comunicación será a través de correo electrónico entre las socias formadoras y el Product Owner.
@@ -21,11 +20,9 @@ Para comunicación entre socias formadoras y el equipo de desarrollo, se estable
 
 Finalmente, la comunicación entre el equipo de desarrollo, es por Discord.
 
-
-
 ## Reuniones
 
-No se cuenta con horario fijo de reuniones, sin embargo, estas tomarán lugar cuando la agenda de las socias esté disponible y cuando el equipo de desarrollo determine la necesidad de una reunión. 
+No se cuenta con horario fijo de reuniones, sin embargo, estas tomarán lugar cuando la agenda de las socias esté disponible y cuando el equipo de desarrollo determine la necesidad de una reunión.
 
 Antes de cada reunión, se debe acordar la hora, fecha y agenda a abordar.
 
@@ -33,9 +30,9 @@ Antes de cada reunión, se debe acordar la hora, fecha y agenda a abordar.
 
 Respetando los días hábiles y horario de oficina, se establece que la comunicación será únicamente de lunes a viernes.
 
-
 ## Control de cambios
-| Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
-|---------|--------|------------------|--------------|-----------------|
-| v 1.0 | Creación del plan |Denisse Dominguez |  | 01/03/2024 |
-| v 2.0 | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica    |             | 03/03/2024      |
+
+| Versión | Cambio                                                                                             | Autor del cambio  | Aprobado por | Fecha de cambio |
+| ------- | -------------------------------------------------------------------------------------------------- | ----------------- | ------------ | --------------- |
+| v 1.0   | Creación del plan                                                                                  | Denisse Dominguez |              | 01/03/2024      |
+| v 2.0   | Actualización de versionamiento. Revisión y corrección de ortografía. | David Langarica   |              | 03/03/2024      |

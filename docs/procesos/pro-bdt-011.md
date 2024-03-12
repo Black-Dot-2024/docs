@@ -1,6 +1,6 @@
 # PRO-BDT-011 Toma de decisiones
 
-v 1.0 / DAR, OPD, OPF, PMC, PP
+v 1.0 / DAR, OPD, PMC, PP
 
 ## Propósito
 
@@ -39,6 +39,7 @@ Decisión tomada documentada
 
 ## Control de cambios
 
-| Versión | Cambio               | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | -------------------- | ---------------- | ------------ | --------------- |
-| v 1.0   | Creación del proceso | David Langarica  |              | 05/03/2024      |
+| Versión | Cambio                                       | Autor del cambio                     | Aprobado por      | Fecha de cambio |
+| ------- | -------------------------------------------- | ------------------------------------ | ----------------- | --------------- |
+| v 1.0   | Creación del proceso                         | David Langarica                      | Daniel Hurtado    | 05/03/2024      |
+| v 2.0   | Actualización de Prácticas Asociadas al CMMI | Diego Sandoval <br/>Alejandra Cabrera | Alejandra Cabrera | 11/03/2024      |

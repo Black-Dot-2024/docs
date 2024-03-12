@@ -1,6 +1,6 @@
 # PRO-BDT-010 Resolución de conflictos
 
-v 1.0 / PMC, RSKM, IPM, DAR, PP, OPD 
+v 1.0 / PMC, RSKM, IPM, DAR, PP, OPD
 
 ## Propósito
 
@@ -25,17 +25,15 @@ Solución documentada.
 
 ## Descripción
 
-| Fase        | Actividades | Responsables  | Prácticas Asociadas al CMMI |
-| ----------- | ----------- | ------------- | --------------------------- |
-| Análisis | Identificar el nivel de problema       | Cómite de Ética, Team Member | RSKM SP1.1, PMC SP1.3, IPM SP2.3 |
-| Análisis |  Revisar la guía de resolución de conflictos      | Cómite de Ética, Team Member | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.1 |
-| Diálogo | Atender el problema con base en la guía y el nivel de problema  | Comité de Ética, Team Member, Team Lead, Project Manager, Profesores | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.3                        |
-| Documentación | Documentar incidencia y solución    | Comité de ética | PP SP3.3, OPD  SP1.6                        |
+| Fase          | Actividades                                                    | Responsables                                                         | Prácticas Asociadas al CMMI                 |
+| ------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------- |
+| Análisis      | Identificar el nivel de problema                               | Cómite de Ética, Team Member                                         | RSKM SP1.1, PMC SP1.3, IPM SP2.3            |
+| Análisis      | Revisar la guía de resolución de conflictos                    | Cómite de Ética, Team Member                                         | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.1 |
+| Diálogo       | Atender el problema con base en la guía y el nivel de problema | Comité de Ética, Team Member, Team Lead, Project Manager, Profesores | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.3 |
+| Documentación | Documentar incidencia y solución                               | Comité de ética                                                      | PP SP3.3, OPD SP1.6                         |
 
 ## Control de cambios
 
-| Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0 | Creación del Proceso | Damariz Licea, David Langarica          |       | 03/03/2024      |
-
-
+| Versión | Cambio               | Autor del cambio               | Aprobado por   | Fecha de cambio |
+| ------- | -------------------- | ------------------------------ | -------------- | --------------- |
+| v 1.0   | Creación del Proceso | Damariz Licea, David Langarica | Daniel Hurtado | 03/03/2024      |

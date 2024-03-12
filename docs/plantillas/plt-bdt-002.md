@@ -14,14 +14,6 @@ Proporciona un resumen o contexto general de la política. Esto puede incluir su
 
 Los involucrados en la política
 
-## Entradas
-
-Todo lo necesario para poder ejercer la política
-
-## Salidas
-
-Lo que resulta de la política
-
 ## Descripción
 
 1. Primer punto de la política
@@ -33,4 +25,4 @@ Lo que resulta de la política
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 0.0 | Descripción del cambio | Nombre           | Nombre       | dd/mm/aaaa      |
+| v 0.0   | Descripción del cambio | Nombre           | Nombre       | dd/mm/aaaa      |

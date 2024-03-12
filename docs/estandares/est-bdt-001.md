@@ -20,7 +20,7 @@ La importancia de este documento es mantener un estándar e identidad para todos
 4. El interlineado es de 1.15.
 5. El alineado del texto del cuerpo es justificado.
 6. El alineado de los títulos es a la izquierda.
-7. El color por default del texto es negro, aunque se puede mofificar si así se requiere. 
+7. El color por default del texto es negro, aunque se puede mofificar si así se requiere.
 
 ### Redacción
 
@@ -32,8 +32,8 @@ La importancia de este documento es mantener un estándar e identidad para todos
    3. **Verificación**: Con las actividades de esta fase se busca retroalimentar el contenido del proceso hasta el momento y se especifica a qué fase deben regresar en caso de necesitar cambios.
    4. **Seguimiento**: Una fase perteneciente a esta categoría engloba actividades relacionadas al monitoreo y seguimiento de las salidas del proceso.
    5. **Notificación**
-   7. **Documentación**: En esta fase se consideran las actividades relacionadas al registro de información de las salidas del proceso en un documento oficial para que todo el departamento tenga acceso.
-   8. **Solicitud**
+   6. **Documentación**: En esta fase se consideran las actividades relacionadas al registro de información de las salidas del proceso en un documento oficial para que todo el departamento tenga acceso.
+   7. **Solicitud**
 
 ### Versiones
 
@@ -50,8 +50,8 @@ La importancia de este documento es mantener un estándar e identidad para todos
 
 ## Control de cambios
 
-| Versión | Cambio                                       | Autor del cambio                                                | Aprobado por | Fecha de cambio |
-| ------- | -------------------------------------------- | --------------------------------------------------------------- | ------------ | --------------- |
-| v 1.0 | Creación del documento                       | Sergio Garnica González                                           |              | 26/02/2024      |
-| v 2.0 | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas   |              | 26/02/2024      |
-| v 3.0 | Agregar estándares de alineación y colores   | Sergio Garnica González                                           | Alejandra Cabrera      | 05/08/2024      |
+| Versión | Cambio                                       | Autor del cambio                                                | Aprobado por      | Fecha de cambio |
+| ------- | -------------------------------------------- | --------------------------------------------------------------- | ----------------- | --------------- |
+| v 1.0   | Creación del documento                       | Sergio Garnica González                                         |                   | 26/02/2024      |
+| v 2.0   | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas |                   | 26/02/2024      |
+| v 3.0   | Agregar estándares de alineación y colores   | Sergio Garnica González                                         | Alejandra Cabrera | 05/08/2024      |
