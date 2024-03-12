@@ -42,4 +42,4 @@ Decisión tomada documentada
 | Versión | Cambio                                       | Autor del cambio                     | Aprobado por      | Fecha de cambio |
 | ------- | -------------------------------------------- | ------------------------------------ | ----------------- | --------------- |
 | v 1.0   | Creación del proceso                         | David Langarica                      | Daniel Hurtado    | 05/03/2024      |
-| v 2.0   | Actualización de Prácticas Asociadas al CMMI | Diego Sandoval <br>Alejandra Cabrera | Alejandra Cabrera | 11/03/2024      |
+| v 2.0   | Actualización de Prácticas Asociadas al CMMI | Diego Sandoval <br/>Alejandra Cabrera | Alejandra Cabrera | 11/03/2024      |

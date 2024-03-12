@@ -163,6 +163,7 @@ const sidebars = {
       items: ['cr/cr-testplan',
         'cr/impact-mapping-cr',
         'cr/vision-proyecto-cr',
+        'cr/diagrama-de-despliegue-cr',
       ]
     },
     'FAQs',
