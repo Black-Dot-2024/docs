@@ -24,6 +24,10 @@ Los conocimientos Técnicos necesarios para el desarrollo del proyecto son:
 
 Asesorias de odoo serán impartidas por el socio tecnológico de CR Organizacional.
 
+## Recursos tecnológicos
+
+- API IA de CR Organizacional
+
 ## Recursos Económicos
 
 No se cuenta con un presupuesto definido para el proyecto.
