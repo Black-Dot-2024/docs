@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # PP - Planeación del Proyecto
 
-| Descripción| Práctica Específica | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción| Práctica Específica | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　| Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ---------- | ------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Estimar el alcance del proyecto | PP - SP1.1 Establecer el Alcance del Proyecto | [PRO-BDT-003](https://black-dot-2024.github.io/docs/procesos/pro-bdt-003)<br/>[PRO-BDT-004](https://black-dot-2024.github.io/docs/procesos/pro-bdt-004)<br/>[PRO-BDT-005](https://black-dot-2024.github.io/docs/procesos/pro-bdt-005)<br/>[PRO-BDT-006](https://black-dot-2024.github.io/docs/procesos/pro-bdt-006) ||||
 | Establecer y mantener estimaciones de los atributos de los productos de trabajo y tareas. | PP - SP1.2 Establecer Estimados de Productos de Trabajo y Atributos de Tareas | [PRO-BDT-006](https://black-dot-2024.github.io/docs/procesos/pro-bdt-006)<br/>[PRO-BDT-007](https://black-dot-2024.github.io/docs/procesos/pro-bdt-007)<br/>[MAN-BDT-002](https://black-dot-2024.github.io/docs/manuales/man-bdt-002)||||
