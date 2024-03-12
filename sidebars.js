@@ -26,6 +26,7 @@ const sidebars = {
       items: ['nosotros/conociendo-blackdot',
         'nosotros/compromisos',
         'nosotros/equipo',
+        'nosotros/objetivos-lideres',
         'nosotros/mision-vision-valores',
       ],
     },
