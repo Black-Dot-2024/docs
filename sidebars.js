@@ -93,6 +93,7 @@ const sidebars = {
             "procesos/pro-bdt-010",
             "procesos/pro-bdt-011",
             "procesos/pro-bdt-012",
+            "procesos/pro-bdt-013",
           ],
         },
         {
@@ -103,6 +104,17 @@ const sidebars = {
             "estandares/est-bdt-002",
             "estandares/est-bdt-003",
             "estandares/est-bdt-004",
+            "estandares/est-bdt-005",
+            "estandares/est-bdt-006",
+            "estandares/est-bdt-007",
+            {
+              type: "category",
+              label: "EST-BDT-008 Estándar para Pull Request de Código",
+              items: [
+                "estandares/est-bdt-008/est-bdt-008",
+                "estandares/est-bdt-008/f-est-bdt-008A",
+              ],
+            },
           ],
         },
         {
