@@ -30,7 +30,7 @@ Necesidad del cliente documentada
 | Durante la sesión  | Realizar las preguntas establecidas previas a la sesión                                                    | PO                       | PP SP 2.6                   |
 | Durante la sesión  | Hacer la minuta de la sesión                                                                               | Team Members             | RD SP 1.1 <br/> CM SP 1.3   |
 | Análisis           | Identificar los stakeholders en un mapa de actores                                                         | PO, Team Members         | PP SP 2.6                   |
-| Análisis           | Identificar la necesidad del cliente                                                                       | PO, TL, AO, Team Members | RD SP 1.2                   |
+| Análisis           | Identificar la necesidad del cliente                                                                       | PO, TL, AO, Team Members | RD SP 1.1                   |
 | Validación         | Validar la necesidad identificada con el departamento                                                      | Equipo de trabajo        | VAL SP 1.1                  |
 | Validación         | Validar la necesidad identificada con el cliente                                                           | PO, Team Members         | VAL SP 2.1                  |
 
