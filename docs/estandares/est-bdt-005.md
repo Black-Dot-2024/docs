@@ -26,8 +26,8 @@ Creación de Pull Requests para la revisión y aprobación de cambios en la docu
 
 1. Los Pull Requests se crearán siguiendo los siguientes formatos dependiendo del tipo de cambio a realizar:
 
-- [Creación de documento](../../.github/PULL_REQUEST_TEMPLATE/wiki_content.md) Para la creación de un nuevo documento en la Wiki de Black Dot.
-- [Arrglo de documento](../../.github/PULL_REQUEST_TEMPLATE/fix_open_issue.md) Para la corrección de errores ortográficos, gramaticales o de formato en un documento de la Wiki de Black Dot.
+- [Creación de documento](https://github.com/Black-Dot-2024/docs/blob/develop/.github/PULL_REQUEST_TEMPLATE/wiki_content.md) Para la creación de un nuevo documento en la Wiki de Black Dot.
+- [Arrglo de documento](https://github.com/Black-Dot-2024/docs/blob/develop/.github/PULL_REQUEST_TEMPLATE/fix_open_issue.md) Para la corrección de errores ortográficos, gramaticales o de formato en un documento de la Wiki de Black Dot.
 
 ## Control de cambios
 
