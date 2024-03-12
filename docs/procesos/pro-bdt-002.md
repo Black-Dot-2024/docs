@@ -16,7 +16,7 @@ Situación problema inicial (propuesta de volvernos un departamento). Propuesta 
 
 ## Salidas
 
-Identidad del departamento. Código de ética. Compromisos y objetivos departamentales. Conformación de equipos y roles. Plan de gestión de forma de trabajo.
+Identidad del departamento. Código de ética. Compromisos y objetivos departamentales. Conformación de equipos y roles.
 
 ## Descripción
 
@@ -39,7 +39,7 @@ Identidad del departamento. Código de ética. Compromisos y objetivos departame
 | Proponer forma de trabajo    | Convertir los compromisos departamentales a políticas del departamento                                                                                                                                         | Departamento                  | PP SP2.6 <br/> PP SP2.7 <br/> OPD SP1.3 |
 | Proponer forma de trabajo    | Establecer medios de comunicación con el cliente                                                                                                                                                               | Departamento                  | PP SP2.6 <br/> PP SP2.7 <br/> OPD SP1.3 |
 | Proponer forma de trabajo    | Definir el proceso para Creación de procesos [PRO-BDT-001 Creación de Procesos](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90001-Creaci%C3%B3n-de-Procesos).                            | Departamento                  | PP SP2.6 <br/> PP SP2.7 <br/> OPD SP1.3 |
-| Validar con los involucrados | Sesión de validación de la forma de trabajo definida con los involucrados <br/> Si hay necesidad de cambio, se regresa a la fase de proponer forma de trabajo, sino se convierte en la forma de trabajo actual | Departamento <br/> Profesores | OPF SP2.2 <br/> OPF SP3.2               |
+| Validar con los involucrados | Sesión de validación de la forma de trabajo definida con los involucrados <br/> Si hay necesidad de cambio, se regresa a la fase de proponer forma de trabajo, sino se convierte en la forma de trabajo actual | Departamento <br/> Profesores | OPF SP2.2 <br/>              |
 
 ## Control de cambios
 

@@ -100,15 +100,15 @@ gantt
         Comunicar visión con CR   :1d
         Entrenamiento con Odoo :2024-03-18, 12d
     section Construction
-        MVP :2024-04-1, 40d
-        1° Iteración :2024-04-1, 12d
-        2° Iteración :2024-04-15, 12d
-        3° Iteración :2024-04-29, 12d
-        MBI 1 :2024-05-13, 12d
-        MBI 2 :2024-05-27, 12d
+        MVP :2024-04-03, 41d
+        1° Iteración :2024-04-3, 13d
+        2° Iteración :2024-04-17, 13d
+        3° Iteración :2024-05-01, 13d
+        MBI 1 :2024-05-15, 13d
+        MBI 2 :2024-05-29, 13d
     section Transition
-        MVP Transition :2024-05-5, 6d
-        MBI 1 Transition :2024-05-22, 3d
-        MBI 2 Transition :2024-06-5, 3d
+        MVP Transition :2024-05-07, 7d
+        MBI 1 Transition :2024-05-24, 3d
+        MBI 2 Transition :2024-06-07, 3d
 
 ```
