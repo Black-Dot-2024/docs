@@ -38,7 +38,7 @@ Creación de Pull Requests para la revisión y aprobación de cambios en los rep
 
 ## Contenido del Pull Request
 
-El Pull Request debe seguir el siguiente [formato](https://black-dot-2024.github.io/docs/estandares/est-bdt-007/f-est-bdt-007A).
+El Pull Request debe seguir el siguiente [formato](f-est-bdt-008A.md).
 
 ## Control de cambios
 
