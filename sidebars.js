@@ -215,8 +215,8 @@ const sidebars = {
       label: "CR Organizacional",
       items: [
         "cr/cr-testplan",
-        "cr/vision-proyecto-cr",
         "cr/impact-mapping-cr",
+        "cr/vision-proyecto-cr",
       ],
     },
     "FAQs",
