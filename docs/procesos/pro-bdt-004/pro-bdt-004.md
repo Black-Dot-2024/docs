@@ -1,6 +1,6 @@
 # PRO-BDT-004 Estimación de requerimientos
 
-v 6.0 / REQM, PP
+v 6.0 / REQM, PP, RD
 
 ## Propósito
 
@@ -35,10 +35,10 @@ Plan de proyecto con la visión descrita.
 | Fase         | Actividades                                                                                                                                                                                      | Responsables          | Prácticas Asociadas al CMMI |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | --------------------------- |
 | Definición   | Realizar el WBS de la descomposición del trabajo de un requerimiento funcional                                                                                                                   | Team Members          | REQM SP1.5 <br/> PP SP1.1   |
-| Definición   | Realizar el Impact Mapping                                                                                                                                                                       | Team Members <br/> PO | REQM SP1.1 <br/> REQM SP1.2 |
-| Definición   | Consulta la guía [F-PRO-BDT-004A](https://docs.google.com/document/d/1qHcd7TAu7gmyZjP8_lm67frwzmqMsejDORm60FM9XU0/edit) para la elaboración de este producto basada en el estándar IEEE 830-1998 | Team Members <br/> AO | REQM SP1.1                  |
+| Definición   | Realizar el Impact Mapping                                                                                                                                                                       | Team Members <br/> PO | REQM SP1.1 <br/> REQM SP1.2 <br/> RD SP1.2 |
+| Definición   | Consulta la guía [F-PRO-BDT-004A](https://docs.google.com/document/d/1qHcd7TAu7gmyZjP8_lm67frwzmqMsejDORm60FM9XU0/edit) para la elaboración de este producto basada en el estándar IEEE 830-1998 | Team Members <br/> AO | REQM SP1.1 <br/> RD SP2.2 <br/> RD SP3.2 |
 | Priorización | El PO prioriza los requerimientos que atienden la necesidad del cliente dividiéndolos en tres versiones MVP, MBI 1 y MBI 2                                                                       | PO                    | REQM SP1.5                  |
-| Validación   | Los team members validan los requerimientos                                                                                                                                                      | Team Members          | REQM SP1.2                  |
+| Validación   | Los team members validan los requerimientos                                                                                                                                                      | Team Members          | REQM SP1.2 <br/> RD SP3.3|
 | Validación   | Alinear el ERS con la visión del cliente                                                                                                                                                         | PO                    | REQM SP1.2                  |
 
 ## Control de cambios
