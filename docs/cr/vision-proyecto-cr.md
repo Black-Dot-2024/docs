@@ -12,6 +12,14 @@ Atender la ineficiencia en el proceso de diagnóstico de los colaboradores, junt
 
 - Reducir en un 30% el tiempo invertido en la generación de reportes por parte del equipo dedicado a la consultoría y desarrollo organizacional de CR
 
+## Alcance y restricciones
+
+Creación, asignación y retroalimentación de formularios, para evaluar el desempeño de manera intregra de los clientes de CR Organizacional.
+
+- El uso del software requiere conexión a internet.
+- El sistema es desarrollado en Odoo Community v 17. 
+- El sistema se verá restringido al soporte que Odoo presente.
+
 ## Entregables
 
 - Código fuente
