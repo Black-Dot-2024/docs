@@ -10,7 +10,7 @@
 
 ## MER
 
-![MER](MER.png)
+![MER](MER-CR.png)
 
 ## Diccionario de Datos
 
