@@ -57,4 +57,4 @@ Documentación del ciclo de vida seleccionado.
 ### Control de cambios
 | Versión | Cambio                                                        | Autor del cambio                                            | Aprobado por | Fecha de cambio |
 | ------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------ | --------------- |
-| v 1.0   | Creación de la guía                                           | Denisse Domínguez Bolaños                                   |              | 12/03/2024      |
+| v 1.0   | Creación de la guía                                           | Denisse Domínguez Bolaños                                   | Carlos Velasco | 12/03/2024      |
