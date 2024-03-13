@@ -126,3 +126,7 @@ de datos (como MariaDB). Esta propuesta se rechazó debido a que consideramos qu
 resultar muy costoso (nos íbamos a tardar mucho tiempo en desarrollar toda la solución) porque sería
 empezar el proyecto desde cero (a comparación de utilizar Odoo) y entrenar a los stakeholders con las
 nuevas tecnologías que implementaríamos.
+
+## Matriz de Stakeholders CR
+
+![Matriz de Stakeholder CR](Matriz-Stakeholder-CR.png)
