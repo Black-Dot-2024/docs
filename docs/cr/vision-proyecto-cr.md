@@ -112,3 +112,21 @@ gantt
         MBI 2 Transition :2024-06-07, 3d
 
 ```
+
+## Arquitectura
+### Propuesta elegida: 
+Utilizar la arquitectura de Odoo (framework de Python) debido a que los socios
+formadores la utilizan en sus operaciones de empresa y nosotros, a pesar de no conocer la tecnología,
+creemos que lo mejor es adaptarnos a su forma de trabajo, ya que una ventaja muy importante es que
+podemos utilizar las funcionalidades ya existentes para desarrollar nuestro módulo de evaluaciones.
+
+### Otras propuestas: 
+Utilizar la arquitectura de React (biblioteca de Javascript) junto a un sistema de base
+de datos (como MariaDB). Esta propuesta se rechazó debido a que consideramos que a largo plazo iba a
+resultar muy costoso (nos íbamos a tardar mucho tiempo en desarrollar toda la solución) porque sería
+empezar el proyecto desde cero (a comparación de utilizar Odoo) y entrenar a los stakeholders con las
+nuevas tecnologías que implementaríamos.
+
+## Matriz de Stakeholders CR
+
+![Matriz de Stakeholder CR](Matriz-Stakeholder-CR.png)
