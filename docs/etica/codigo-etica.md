@@ -113,3 +113,5 @@ Para asegurar la eficiencia, nos comprometemos a llevar a cabo revisiones de nue
 
 ## Firma de Compromiso
 Después de haber leído el Código de Ética del departamento Black DOT en su totalidad, cada integrante del departamento debe firmar la carta de compromiso. Esta carta indica la disposición de cada integrante a adherirse a los principios éticos establecidos en el documento, así como la misión y visión del departamento.
+
+[Carta Comprimiso Firmada](https://drive.google.com/file/d/1Qi5HDJXO21kINNf6OhoyrNZ_cAnxXK1B/view?usp=sharing)
