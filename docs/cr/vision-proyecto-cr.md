@@ -14,7 +14,7 @@ Atender la ineficiencia en el proceso de diagnóstico de los colaboradores, junt
 
 ## Alcance y restricciones
 
-Creación, asignación y retroalimentación de formularios, para evaluar el desemmpeño de manera intregra de los clientes de CR Organizacional.
+Creación, asignación y retroalimentación de formularios, para evaluar el desempeño de manera intregra de los clientes de CR Organizacional.
 
 - El uso del software requiere conexión a internet.
 - El sistema es desarrollado en Odoo Community v 17. 
