@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # CM - Gestión de Configuración
 
-| Descripción                                                                                                                                           | Práctica Específica                                          | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                                                                                           | Práctica Específica                                          | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　| Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Identificar los elementos de configuración, los componentes, y los productos de trabajo relacionados que serán puestos bajo gestión de configuración. | CM - SP1.1 Identificar elementos de configuración            |                                                |                            |                    |                        |
 | Establecer y mantener un sistema de gestión de configuración y de gestión de trabajo.                                                                 | CM - SP1.2 Establecer un sistema de gestión de configuración |                                                |                            |                    |                        |

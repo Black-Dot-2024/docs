@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # TS - Solución Técnica
 
-| Descripción                                                                       | Práctica Específica                                                                                               | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                       | Práctica Específica                                                                                               | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Seleccionar un stack tecnológico y crear un criterio de selección de tecnologías. | TS - SP1.1 Desarrollar soluciones alternativas y los criterios de selección.                                      |                                                |                            |                    |                        |
 |                                                                                   | TS - SP1.2 Seleccionar las soluciones de componentes de producto.                                                 |                                                |                            |                    |                        |

@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # OT - Entrenamiento Organizacional
 
-| Descripción                                                                     | Práctica Específica                                                                           | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                     | Práctica Específica                                                                           | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Evaluar la eficacia.                                                            | OT - SP2.3 Evaluar eficiencia de entrenamientos                                               |                                                |                            |                    |                        |
 | Establecer los registros de formación.                                          | OT - SP2.2 Establecer registros de entrenamiento                                              |                                                |                            |                    |                        |

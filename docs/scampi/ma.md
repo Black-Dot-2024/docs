@@ -4,7 +4,7 @@ sidebar_position: 17
 
 # MA - Medición y Análisis
 
-| Descripción                                                           | Práctica Específica                                                            | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                           | Práctica Específica                                                            | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Establecer los objetivos de medición.                                 | MA - SP1.1 Establecer objetivos de medición                                    |                                                |                            |                    |                        |
 | Especificar las medidas.                                              | MA - SP1.2 Especificar medidas                                                 |                                                |                            |                    |                        |

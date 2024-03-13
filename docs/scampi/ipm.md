@@ -4,7 +4,7 @@ sidebar_position: 16
 
 # IPM - Gestión del Proyecto Integrado
 
-| Descripción                                                                                      | Práctica Específica                                                         | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                                      | Práctica Específica                                                         | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Resolver las cuestiones de coordinación.                                                         | IPM - SP2.3 Resolver Problemas de Coordinación                              |                                                |                            |                    |                        |
 | Gestionar las dependencias.                                                                      | IPM - SP2.2 Gestionar Dependencias                                          |                                                |                            |                    |                        |

@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # PPQA - Aseguramiento de la Calidad en Procesos y Productos
 
-| Descripción                                  | Práctica Específica                                           | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                  | Práctica Específica                                           | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | -------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Evaluar objetivamente los procesos.          | PPQA - SP1.1 Evaluar procesos objetivamente                   |                                                |                            |                    |                        |
 | Evaluar objetivamente los productos trabajo. | PPQA - SP1.2 Evaluar productos de trabajo objetivamente       |                                                |                            |                    |                        |
