@@ -73,7 +73,7 @@ Con el objetivo de identificar y gestionar los conflictos de interés de forma t
 Buscando respetar y reconocer las atribuciones en el desarrollo y uso de software, contenido y otros activos intelectuales, adoptamos leyes y regulaciones relacionadas con derechos de autor, patentes, marcas registradas y otros aspectos de la propiedad intelectual. 
 
 ## Compromiso con el Código de Ética 
-En Black Dot, nos comprometemos a seguir y respetar este Código de Ética. Se espera que todos los empleados y socios practiquen estos principios en su trabajo diario. El departamento  promoverá un ambiente que fomente la integridad, la responsabilidad y el respeto en todas las interacciones profesionales. 
+En Black Dot, nos comprometemos a seguir y respetar este Código de Ética. Se espera que todos los integrantes del departamento practiquen estos principios en su trabajo diario. El departamento promoverá un ambiente que fomente la integridad, la responsabilidad y el respeto en todas las interacciones profesionales. 
 
 ### I. *Colaborar con colegas para mejorar la ética profesional en la industria*
 Reconociendo que la ética profesional no solo se trata de las acciones individuales, sino también de la cultura y las normas dentro del departamento, colaboramos para contribuir a la construcción de una comunidad informática ética y responsable. 

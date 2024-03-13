@@ -152,3 +152,7 @@ En esta propuesta, presentamos una estimación de costos para los servicios de i
 ## Riesgos
 
 [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1qlkNWrnsY4GdnN6vlMMmOpeQMdMY4EydTHZ9DmPvUGE/edit?usp=sharing)
+
+## Matriz de Stakeholders Zeitgeist
+
+![Matriz de Stakeholder Zeitgeist](../../static/img/Matriz%20de%20Stakeholders%20Zeitgeist.png)
