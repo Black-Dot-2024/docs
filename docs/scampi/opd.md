@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # OPD - Definición de Procesos de la Organización
 
-| Descripción   | Práctica Específica  | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción   | Práctica Específica  | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　| Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Establecer las reglas y guías para los equipos.        | OPD - SP1.7 Establecer Reglas y Guías para Equipos (NO ESTÁ EN EL SCAMPI)  | [POL-BDT-001](https://black-dot-2024.github.io/docs/politicas/pol-bdt-001)  |                            |                    |  [Código de Ética](https://black-dot-2024.github.io/docs/etica/codigo-etica)  <br /> [Compromisos Departamentales](https://black-dot-2024.github.io/docs/nosotros/compromisos)                    |
 | Establecer los estándares del entorno de trabajo.| OPD - SP1.6 Establecer Estándares de Ambiente de Trabajo | [PRO-BDT-010](https://black-dot-2024.github.io/docs/procesos/pro-bdt-010)                                              |                            |                    |                        |

@@ -12,11 +12,11 @@ Todos los integrantes del equipo y los clientes
 
 ## Entradas
 
-Necesidad del cliente documentada. Si requieres identificar la necesidad sigue este [proceso](https://github.com/Black-Dot-2024/docs/wiki/PRO%E2%80%90BDT%E2%80%90003-Identificaci%C3%B3n-de-la-necesidad-del-cliente).
+Necesidad del cliente documentada. Si requieres identificar la necesidad sigue el proceso [PRO-BDT-003](https://black-dot-2024.github.io/docs/procesos/pro-bdt-003).
 
 ## Salidas
 
-Documentación de la Visión del Proyecto y Carta de Intención firmada
+Documentación de la Visión del Proyecto firmada
 
 ## Descripción
 
