@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # VER - Verificación
 
-| Descripción                                                                        | Práctica Específica                                                        | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                        | Práctica Específica                                                        | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Gráficas de Defectos - Faltan Auditorías de PPQA (cosas que no han sido auditadas) | VER - SP3.2 Analizar los resultados de la verificación.                    |                                                |                            |                    |                        |
 |                                                                                    | VER - SP3.1 Realizar la verificación.                                      |                                                |                            |                    |                        |

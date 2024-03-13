@@ -29,6 +29,9 @@ Los conocimientos Técnicos necesarios para el desarrollo del proyecto son:
 - React
 - AWS
 
+## Recursos tecnológicos
+- API Google Sign In
+
 ## Recursos Económicos
 
 El proyecto cuenta con un presupuesto de $5 MXN mensuales para el despliegue.

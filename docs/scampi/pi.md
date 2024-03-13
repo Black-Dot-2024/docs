@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # PI - Integración de Producto
 
-| Descripción                                                                     | Práctica Específica                                                            | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                     | Práctica Específica                                                            | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Empaquetar y entregar el producto o componente del producto.                    | PI - SP3.4 Preparar y entregar el producto.                                    |                                                |                            |                    |                        |
 | Evaluar los componentes de producto ensamblados.                                | PI - SP3.3 Evaluar componentes del producto ensamblado.                        |                                                |                            |                    |                        |

@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # DAR - Análisis y Toma de Decisiones
 
-| Descripción                                                                                                   | Práctica Específica                                      | Definición (Procesos, Guías, Estándares, etc.) | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
+| Descripción                                                                                                   | Práctica Específica                                      | Definición (Procesos, Guías, Estándares, etc.) 　　　　　　　　 | Proyecto CR Organizacional | Proyecto Zeitgeist | Proyecto Departamental |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- | -------------------------- | ------------------ | ---------------------- |
 | Seleccionar soluciones de las alternativas basadas en los criterios de evaluación.                            | DAR - SP1.6 Seleccionar Soluciones                       |                                                |                            |                    |                        |
 | Evaluar alternativas de solución utilizando los criterios y métodos establecidos.                             | DAR - SP1.5 Evaluar Soluciones Alternativas              |                                                |                            |                    |                        |

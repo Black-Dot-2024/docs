@@ -39,8 +39,6 @@ Mantener una comunicación activa dentro del departamento en horario laboral: 9:
 
 ### Compromiso 03: Juntas del Departamento
 
-**\*NOTA.** Revisar
-
 #### Descripción
 
 Asistir a las juntas semanales del departamento:
